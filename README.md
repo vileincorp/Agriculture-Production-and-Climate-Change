@@ -10,7 +10,9 @@ The backbone of any civilization is it's ability to properly feed it's populatio
 
 
 -- What were Highest and Lowest Values in Agriculture Production over the last 28 years?
+
 -- How does Air and Water Quality Influence Production over that time span?
+
 -- Could we Predict future Production based on variance in these patterns? 
 
 The goal of this project is to help farmers and climate scientists discover the best way to grow the right crops to grow in a changing climate, aswell as Entrepneaurs and Business' articualte their investment positioning for the future, when produce types we take for granted, might be harder to grow. 
