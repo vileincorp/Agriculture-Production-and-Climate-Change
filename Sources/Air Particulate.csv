@@ -1,0 +1,1262 @@
+FIPSCode,LocationType,Location,TimeFrame,DataFormat,Data
+0,Nation,United States,1999,Micrograms per Cubic Meter,N_A
+0,Nation,United States,2000,Micrograms per Cubic Meter,13.5
+0,Nation,United States,2001,Micrograms per Cubic Meter,13.2
+0,Nation,United States,2002,Micrograms per Cubic Meter,12.8
+0,Nation,United States,2003,Micrograms per Cubic Meter,12.3
+0,Nation,United States,2004,Micrograms per Cubic Meter,12.0
+0,Nation,United States,2005,Micrograms per Cubic Meter,12.9
+0,Nation,United States,2006,Micrograms per Cubic Meter,11.6
+0,Nation,United States,2007,Micrograms per Cubic Meter,11.9
+0,Nation,United States,2008,Micrograms per Cubic Meter,10.9
+0,Nation,United States,2009,Micrograms per Cubic Meter,9.9
+0,Nation,United States,2010,Micrograms per Cubic Meter,10.0
+0,Nation,United States,2011,Micrograms per Cubic Meter,9.8
+0,Nation,United States,2012,Micrograms per Cubic Meter,9.2
+0,Nation,United States,2013,Micrograms per Cubic Meter,9.0
+0,Nation,United States,2014,Micrograms per Cubic Meter,8.9
+0,Nation,United States,2015,Micrograms per Cubic Meter,8.5
+0,Nation,United States,2016,Micrograms per Cubic Meter,7.7
+0,Nation,United States,2017,Micrograms per Cubic Meter,8.1
+0,Nation,United States,2018,Micrograms per Cubic Meter,8.2
+0,Nation,United States,2019,Micrograms per Cubic Meter,7.7
+06,State,California,2019,Micrograms per Cubic Meter,8.1
+06,State,California,2018,Micrograms per Cubic Meter,12.3
+06,State,California,2017,Micrograms per Cubic Meter,10.8
+06,State,California,2016,Micrograms per Cubic Meter,8.9
+06,State,California,2015,Micrograms per Cubic Meter,9.9
+06,State,California,2014,Micrograms per Cubic Meter,9.9
+06,State,California,2013,Micrograms per Cubic Meter,11.0
+06,State,California,2012,Micrograms per Cubic Meter,9.4
+06,State,California,2011,Micrograms per Cubic Meter,10.4
+06,State,California,2010,Micrograms per Cubic Meter,9.5
+06,State,California,2009,Micrograms per Cubic Meter,10.2
+06,State,California,2008,Micrograms per Cubic Meter,11.8
+06,State,California,2007,Micrograms per Cubic Meter,11.0
+06,State,California,2006,Micrograms per Cubic Meter,11.6
+06,State,California,2005,Micrograms per Cubic Meter,11.4
+06,State,California,2004,Micrograms per Cubic Meter,12.0
+06,State,California,2003,Micrograms per Cubic Meter,12.2
+06,State,California,2002,Micrograms per Cubic Meter,14.2
+06,State,California,2001,Micrograms per Cubic Meter,13.7
+06,State,California,2000,Micrograms per Cubic Meter,14.4
+06,State,California,1999,Micrograms per Cubic Meter,17.6
+06081,County,San Mateo County,1999,Micrograms per Cubic Meter,N_A
+06081,County,San Mateo County,2000,Micrograms per Cubic Meter,N_A
+06081,County,San Mateo County,2001,Micrograms per Cubic Meter,11.3
+06081,County,San Mateo County,2002,Micrograms per Cubic Meter,11.5
+06081,County,San Mateo County,2005,Micrograms per Cubic Meter,8.8
+06081,County,San Mateo County,2003,Micrograms per Cubic Meter,8.9
+06081,County,San Mateo County,2004,Micrograms per Cubic Meter,9.3
+06081,County,San Mateo County,2007,Micrograms per Cubic Meter,8.3
+06081,County,San Mateo County,2006,Micrograms per Cubic Meter,9.6
+06081,County,San Mateo County,2008,Micrograms per Cubic Meter,9.1
+06081,County,San Mateo County,2009,Micrograms per Cubic Meter,8.7
+06081,County,San Mateo County,2010,Micrograms per Cubic Meter,8.3
+06081,County,San Mateo County,2011,Micrograms per Cubic Meter,8.7
+06081,County,San Mateo County,2012,Micrograms per Cubic Meter,8.5
+06081,County,San Mateo County,2013,Micrograms per Cubic Meter,10.7
+06081,County,San Mateo County,2014,Micrograms per Cubic Meter,7.1
+06081,County,San Mateo County,2015,Micrograms per Cubic Meter,5.7
+06081,County,San Mateo County,2016,Micrograms per Cubic Meter,8.3
+06081,County,San Mateo County,2018,Micrograms per Cubic Meter,10.6
+06081,County,San Mateo County,2017,Micrograms per Cubic Meter,9.1
+06081,County,San Mateo County,2019,Micrograms per Cubic Meter,7.0
+06085,County,Santa Clara County,2019,Micrograms per Cubic Meter,9.1
+06085,County,Santa Clara County,2017,Micrograms per Cubic Meter,10.8
+06085,County,Santa Clara County,2018,Micrograms per Cubic Meter,12.8
+06085,County,Santa Clara County,2016,Micrograms per Cubic Meter,9.1
+06085,County,Santa Clara County,2015,Micrograms per Cubic Meter,10.0
+06085,County,Santa Clara County,2014,Micrograms per Cubic Meter,8.4
+06085,County,Santa Clara County,2013,Micrograms per Cubic Meter,12.4
+06085,County,Santa Clara County,2012,Micrograms per Cubic Meter,9.2
+06085,County,Santa Clara County,2011,Micrograms per Cubic Meter,9.9
+06085,County,Santa Clara County,2009,Micrograms per Cubic Meter,10.1
+06085,County,Santa Clara County,2010,Micrograms per Cubic Meter,8.8
+06085,County,Santa Clara County,2008,Micrograms per Cubic Meter,11.5
+06085,County,Santa Clara County,2006,Micrograms per Cubic Meter,10.8
+06085,County,Santa Clara County,2007,Micrograms per Cubic Meter,10.7
+06085,County,Santa Clara County,2004,Micrograms per Cubic Meter,11.6
+06085,County,Santa Clara County,2003,Micrograms per Cubic Meter,11.7
+06085,County,Santa Clara County,2005,Micrograms per Cubic Meter,11.8
+06085,County,Santa Clara County,2002,Micrograms per Cubic Meter,12.0
+06085,County,Santa Clara County,2001,Micrograms per Cubic Meter,12.8
+06085,County,Santa Clara County,2000,Micrograms per Cubic Meter,13.6
+06085,County,Santa Clara County,1999,Micrograms per Cubic Meter,16.2
+06001,County,Alameda County,1999,Micrograms per Cubic Meter,N_A
+06001,County,Alameda County,2001,Micrograms per Cubic Meter,12.4
+06001,County,Alameda County,2000,Micrograms per Cubic Meter,11.2
+06001,County,Alameda County,2002,Micrograms per Cubic Meter,13.8
+06001,County,Alameda County,2003,Micrograms per Cubic Meter,9.0
+06001,County,Alameda County,2005,Micrograms per Cubic Meter,9.0
+06001,County,Alameda County,2004,Micrograms per Cubic Meter,10.3
+06001,County,Alameda County,2006,Micrograms per Cubic Meter,10.3
+06001,County,Alameda County,2007,Micrograms per Cubic Meter,9.0
+06001,County,Alameda County,2009,Micrograms per Cubic Meter,9.4
+06001,County,Alameda County,2008,Micrograms per Cubic Meter,10.1
+06001,County,Alameda County,2010,Micrograms per Cubic Meter,7.8
+06001,County,Alameda County,2011,Micrograms per Cubic Meter,10.1
+06001,County,Alameda County,2013,Micrograms per Cubic Meter,12.8
+06001,County,Alameda County,2012,Micrograms per Cubic Meter,9.5
+06001,County,Alameda County,2014,Micrograms per Cubic Meter,9.5
+06001,County,Alameda County,2015,Micrograms per Cubic Meter,10.2
+06001,County,Alameda County,2017,Micrograms per Cubic Meter,12.8
+06001,County,Alameda County,2016,Micrograms per Cubic Meter,8.7
+06001,County,Alameda County,2018,Micrograms per Cubic Meter,14.4
+06001,County,Alameda County,2019,Micrograms per Cubic Meter,9.4
+06013,County,Contra Costa County,2018,Micrograms per Cubic Meter,13.4
+06013,County,Contra Costa County,2019,Micrograms per Cubic Meter,7.8
+06013,County,Contra Costa County,2017,Micrograms per Cubic Meter,12.0
+06013,County,Contra Costa County,2016,Micrograms per Cubic Meter,8.1
+06013,County,Contra Costa County,2015,Micrograms per Cubic Meter,8.9
+06013,County,Contra Costa County,2014,Micrograms per Cubic Meter,10.5
+06013,County,Contra Costa County,2013,Micrograms per Cubic Meter,12.0
+06013,County,Contra Costa County,2012,Micrograms per Cubic Meter,6.6
+06013,County,Contra Costa County,2011,Micrograms per Cubic Meter,7.8
+06013,County,Contra Costa County,2010,Micrograms per Cubic Meter,7.1
+06013,County,Contra Costa County,2009,Micrograms per Cubic Meter,8.4
+06013,County,Contra Costa County,2008,Micrograms per Cubic Meter,9.3
+06013,County,Contra Costa County,2007,Micrograms per Cubic Meter,8.4
+06013,County,Contra Costa County,2006,Micrograms per Cubic Meter,9.3
+06013,County,Contra Costa County,2005,Micrograms per Cubic Meter,9.1
+06013,County,Contra Costa County,2004,Micrograms per Cubic Meter,N_A
+06013,County,Contra Costa County,2003,Micrograms per Cubic Meter,9.7
+06013,County,Contra Costa County,2002,Micrograms per Cubic Meter,13.0
+06013,County,Contra Costa County,2000,Micrograms per Cubic Meter,11.1
+06013,County,Contra Costa County,2001,Micrograms per Cubic Meter,10.9
+06013,County,Contra Costa County,1999,Micrograms per Cubic Meter,N_A
+06041,County,Marin County,1999,Micrograms per Cubic Meter,N_A
+06041,County,Marin County,2000,Micrograms per Cubic Meter,N_A
+06041,County,Marin County,2002,Micrograms per Cubic Meter,N_A
+06041,County,Marin County,2003,Micrograms per Cubic Meter,N_A
+06041,County,Marin County,2001,Micrograms per Cubic Meter,N_A
+06041,County,Marin County,2004,Micrograms per Cubic Meter,N_A
+06041,County,Marin County,2005,Micrograms per Cubic Meter,N_A
+06041,County,Marin County,2006,Micrograms per Cubic Meter,N_A
+06041,County,Marin County,2007,Micrograms per Cubic Meter,N_A
+06041,County,Marin County,2008,Micrograms per Cubic Meter,N_A
+06041,County,Marin County,2009,Micrograms per Cubic Meter,N_A
+06041,County,Marin County,2010,Micrograms per Cubic Meter,N_A
+06041,County,Marin County,2011,Micrograms per Cubic Meter,9.9
+06041,County,Marin County,2012,Micrograms per Cubic Meter,8.0
+06041,County,Marin County,2013,Micrograms per Cubic Meter,10.8
+06041,County,Marin County,2014,Micrograms per Cubic Meter,10.8
+06041,County,Marin County,2015,Micrograms per Cubic Meter,8.6
+06041,County,Marin County,2016,Micrograms per Cubic Meter,6.4
+06041,County,Marin County,2017,Micrograms per Cubic Meter,9.7
+06041,County,Marin County,2019,Micrograms per Cubic Meter,6.4
+06041,County,Marin County,2018,Micrograms per Cubic Meter,11.1
+06075,County,San Francisco County,2018,Micrograms per Cubic Meter,11.7
+06075,County,San Francisco County,2017,Micrograms per Cubic Meter,9.7
+06075,County,San Francisco County,2019,Micrograms per Cubic Meter,7.7
+06075,County,San Francisco County,2016,Micrograms per Cubic Meter,7.5
+06075,County,San Francisco County,2015,Micrograms per Cubic Meter,7.6
+06075,County,San Francisco County,2014,Micrograms per Cubic Meter,7.7
+06075,County,San Francisco County,2013,Micrograms per Cubic Meter,10.1
+06075,County,San Francisco County,2010,Micrograms per Cubic Meter,10.5
+06075,County,San Francisco County,2011,Micrograms per Cubic Meter,9.5
+06075,County,San Francisco County,2012,Micrograms per Cubic Meter,8.2
+06075,County,San Francisco County,2009,Micrograms per Cubic Meter,9.7
+06075,County,San Francisco County,2008,Micrograms per Cubic Meter,9.8
+06075,County,San Francisco County,2007,Micrograms per Cubic Meter,8.7
+06075,County,San Francisco County,2006,Micrograms per Cubic Meter,9.7
+06075,County,San Francisco County,2005,Micrograms per Cubic Meter,9.5
+06075,County,San Francisco County,2003,Micrograms per Cubic Meter,10.2
+06075,County,San Francisco County,2004,Micrograms per Cubic Meter,9.9
+06075,County,San Francisco County,2001,Micrograms per Cubic Meter,11.5
+06075,County,San Francisco County,2002,Micrograms per Cubic Meter,13.1
+06075,County,San Francisco County,2000,Micrograms per Cubic Meter,N_A
+06075,County,San Francisco County,1999,Micrograms per Cubic Meter,N_A
+06083,County,Santa Barbara County,1999,Micrograms per Cubic Meter,N_A
+06083,County,Santa Barbara County,2000,Micrograms per Cubic Meter,N_A
+06083,County,Santa Barbara County,2002,Micrograms per Cubic Meter,9.5
+06083,County,Santa Barbara County,2001,Micrograms per Cubic Meter,10.4
+06083,County,Santa Barbara County,2004,Micrograms per Cubic Meter,7.5
+06083,County,Santa Barbara County,2003,Micrograms per Cubic Meter,8.6
+06083,County,Santa Barbara County,2005,Micrograms per Cubic Meter,N_A
+06083,County,Santa Barbara County,2006,Micrograms per Cubic Meter,10.1
+06083,County,Santa Barbara County,2007,Micrograms per Cubic Meter,9.5
+06083,County,Santa Barbara County,2008,Micrograms per Cubic Meter,10.4
+06083,County,Santa Barbara County,2009,Micrograms per Cubic Meter,6.9
+06083,County,Santa Barbara County,2010,Micrograms per Cubic Meter,8.9
+06083,County,Santa Barbara County,2012,Micrograms per Cubic Meter,8.5
+06083,County,Santa Barbara County,2011,Micrograms per Cubic Meter,11.0
+06083,County,Santa Barbara County,2013,Micrograms per Cubic Meter,8.9
+06083,County,Santa Barbara County,2014,Micrograms per Cubic Meter,8.9
+06083,County,Santa Barbara County,2015,Micrograms per Cubic Meter,8.3
+06083,County,Santa Barbara County,2016,Micrograms per Cubic Meter,7.0
+06083,County,Santa Barbara County,2019,Micrograms per Cubic Meter,6.8
+06083,County,Santa Barbara County,2017,Micrograms per Cubic Meter,9.4
+06083,County,Santa Barbara County,2018,Micrograms per Cubic Meter,8.6
+06053,County,Monterey County,2018,Micrograms per Cubic Meter,7.3
+06053,County,Monterey County,2017,Micrograms per Cubic Meter,6.4
+06053,County,Monterey County,2019,Micrograms per Cubic Meter,5.5
+06053,County,Monterey County,2016,Micrograms per Cubic Meter,6.8
+06053,County,Monterey County,2015,Micrograms per Cubic Meter,6.3
+06053,County,Monterey County,2014,Micrograms per Cubic Meter,6.5
+06053,County,Monterey County,2013,Micrograms per Cubic Meter,6.7
+06053,County,Monterey County,2011,Micrograms per Cubic Meter,6.3
+06053,County,Monterey County,2012,Micrograms per Cubic Meter,6.0
+06053,County,Monterey County,2010,Micrograms per Cubic Meter,6.6
+06053,County,Monterey County,2009,Micrograms per Cubic Meter,5.8
+06053,County,Monterey County,2008,Micrograms per Cubic Meter,7.2
+06053,County,Monterey County,2007,Micrograms per Cubic Meter,7.0
+06053,County,Monterey County,2006,Micrograms per Cubic Meter,7.1
+06053,County,Monterey County,2005,Micrograms per Cubic Meter,6.8
+06053,County,Monterey County,2004,Micrograms per Cubic Meter,7.0
+06053,County,Monterey County,2001,Micrograms per Cubic Meter,8.8
+06053,County,Monterey County,2003,Micrograms per Cubic Meter,7.3
+06053,County,Monterey County,2002,Micrograms per Cubic Meter,9.1
+06053,County,Monterey County,2000,Micrograms per Cubic Meter,7.9
+06053,County,Monterey County,1999,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,1999,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2001,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2000,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2002,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2003,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2004,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2005,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2007,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2006,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2008,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2009,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2011,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2010,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2012,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2013,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2014,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2015,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2016,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2017,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2019,Micrograms per Cubic Meter,N_A
+06015,County,Del Norte County,2018,Micrograms per Cubic Meter,N_A
+06093,County,Siskiyou County,2017,Micrograms per Cubic Meter,11.1
+06093,County,Siskiyou County,2018,Micrograms per Cubic Meter,14.4
+06093,County,Siskiyou County,2019,Micrograms per Cubic Meter,5.9
+06093,County,Siskiyou County,2016,Micrograms per Cubic Meter,4.9
+06093,County,Siskiyou County,2015,Micrograms per Cubic Meter,N_A
+06093,County,Siskiyou County,2013,Micrograms per Cubic Meter,7.9
+06093,County,Siskiyou County,2014,Micrograms per Cubic Meter,N_A
+06093,County,Siskiyou County,2012,Micrograms per Cubic Meter,5.7
+06093,County,Siskiyou County,2011,Micrograms per Cubic Meter,5.5
+06093,County,Siskiyou County,2008,Micrograms per Cubic Meter,N_A
+06093,County,Siskiyou County,2010,Micrograms per Cubic Meter,N_A
+06093,County,Siskiyou County,2009,Micrograms per Cubic Meter,5.1
+06093,County,Siskiyou County,2007,Micrograms per Cubic Meter,N_A
+06093,County,Siskiyou County,2006,Micrograms per Cubic Meter,N_A
+06093,County,Siskiyou County,2005,Micrograms per Cubic Meter,N_A
+06093,County,Siskiyou County,2004,Micrograms per Cubic Meter,N_A
+06093,County,Siskiyou County,2003,Micrograms per Cubic Meter,N_A
+06093,County,Siskiyou County,2001,Micrograms per Cubic Meter,N_A
+06093,County,Siskiyou County,2002,Micrograms per Cubic Meter,N_A
+06093,County,Siskiyou County,2000,Micrograms per Cubic Meter,N_A
+06093,County,Siskiyou County,1999,Micrograms per Cubic Meter,N_A
+06049,County,Modoc County,1999,Micrograms per Cubic Meter,7.9
+06049,County,Modoc County,2000,Micrograms per Cubic Meter,8.5
+06049,County,Modoc County,2001,Micrograms per Cubic Meter,N_A
+06049,County,Modoc County,2003,Micrograms per Cubic Meter,N_A
+06049,County,Modoc County,2002,Micrograms per Cubic Meter,N_A
+06049,County,Modoc County,2004,Micrograms per Cubic Meter,N_A
+06049,County,Modoc County,2005,Micrograms per Cubic Meter,N_A
+06049,County,Modoc County,2006,Micrograms per Cubic Meter,N_A
+06049,County,Modoc County,2007,Micrograms per Cubic Meter,N_A
+06049,County,Modoc County,2009,Micrograms per Cubic Meter,N_A
+06049,County,Modoc County,2008,Micrograms per Cubic Meter,N_A
+06049,County,Modoc County,2011,Micrograms per Cubic Meter,N_A
+06049,County,Modoc County,2010,Micrograms per Cubic Meter,N_A
+06049,County,Modoc County,2014,Micrograms per Cubic Meter,N_A
+06049,County,Modoc County,2012,Micrograms per Cubic Meter,N_A
+06049,County,Modoc County,2013,Micrograms per Cubic Meter,N_A
+06049,County,Modoc County,2015,Micrograms per Cubic Meter,N_A
+06049,County,Modoc County,2016,Micrograms per Cubic Meter,N_A
+06049,County,Modoc County,2019,Micrograms per Cubic Meter,N_A
+06049,County,Modoc County,2017,Micrograms per Cubic Meter,N_A
+06049,County,Modoc County,2018,Micrograms per Cubic Meter,N_A
+06023,County,Humboldt County,2018,Micrograms per Cubic Meter,7.7
+06023,County,Humboldt County,2019,Micrograms per Cubic Meter,6.8
+06023,County,Humboldt County,2017,Micrograms per Cubic Meter,8.3
+06023,County,Humboldt County,2016,Micrograms per Cubic Meter,6.1
+06023,County,Humboldt County,2015,Micrograms per Cubic Meter,5.9
+06023,County,Humboldt County,2013,Micrograms per Cubic Meter,7.1
+06023,County,Humboldt County,2012,Micrograms per Cubic Meter,6.8
+06023,County,Humboldt County,2014,Micrograms per Cubic Meter,3.1
+06023,County,Humboldt County,2010,Micrograms per Cubic Meter,5.6
+06023,County,Humboldt County,2011,Micrograms per Cubic Meter,N_A
+06023,County,Humboldt County,2008,Micrograms per Cubic Meter,7.8
+06023,County,Humboldt County,2009,Micrograms per Cubic Meter,7.0
+06023,County,Humboldt County,2007,Micrograms per Cubic Meter,7.1
+06023,County,Humboldt County,2006,Micrograms per Cubic Meter,7.6
+06023,County,Humboldt County,2005,Micrograms per Cubic Meter,N_A
+06023,County,Humboldt County,2004,Micrograms per Cubic Meter,8.1
+06023,County,Humboldt County,2002,Micrograms per Cubic Meter,7.9
+06023,County,Humboldt County,2003,Micrograms per Cubic Meter,N_A
+06023,County,Humboldt County,2000,Micrograms per Cubic Meter,N_A
+06023,County,Humboldt County,2001,Micrograms per Cubic Meter,9.4
+06023,County,Humboldt County,1999,Micrograms per Cubic Meter,9.1
+06105,County,Trinity County,1999,Micrograms per Cubic Meter,N_A
+06105,County,Trinity County,2000,Micrograms per Cubic Meter,N_A
+06105,County,Trinity County,2002,Micrograms per Cubic Meter,N_A
+06105,County,Trinity County,2001,Micrograms per Cubic Meter,N_A
+06105,County,Trinity County,2004,Micrograms per Cubic Meter,N_A
+06105,County,Trinity County,2003,Micrograms per Cubic Meter,N_A
+06105,County,Trinity County,2005,Micrograms per Cubic Meter,N_A
+06105,County,Trinity County,2006,Micrograms per Cubic Meter,N_A
+06105,County,Trinity County,2007,Micrograms per Cubic Meter,N_A
+06105,County,Trinity County,2009,Micrograms per Cubic Meter,N_A
+06105,County,Trinity County,2010,Micrograms per Cubic Meter,N_A
+06105,County,Trinity County,2008,Micrograms per Cubic Meter,N_A
+06105,County,Trinity County,2011,Micrograms per Cubic Meter,N_A
+06105,County,Trinity County,2012,Micrograms per Cubic Meter,16.3
+06105,County,Trinity County,2014,Micrograms per Cubic Meter,N_A
+06105,County,Trinity County,2013,Micrograms per Cubic Meter,N_A
+06105,County,Trinity County,2015,Micrograms per Cubic Meter,N_A
+06105,County,Trinity County,2016,Micrograms per Cubic Meter,N_A
+06105,County,Trinity County,2018,Micrograms per Cubic Meter,N_A
+06105,County,Trinity County,2017,Micrograms per Cubic Meter,N_A
+06105,County,Trinity County,2019,Micrograms per Cubic Meter,N_A
+06089,County,Shasta County,2019,Micrograms per Cubic Meter,6.7
+06089,County,Shasta County,2017,Micrograms per Cubic Meter,7.8
+06089,County,Shasta County,2018,Micrograms per Cubic Meter,15.9
+06089,County,Shasta County,2016,Micrograms per Cubic Meter,5.2
+06089,County,Shasta County,2015,Micrograms per Cubic Meter,7.5
+06089,County,Shasta County,2013,Micrograms per Cubic Meter,5.9
+06089,County,Shasta County,2014,Micrograms per Cubic Meter,5.2
+06089,County,Shasta County,2012,Micrograms per Cubic Meter,5.9
+06089,County,Shasta County,2011,Micrograms per Cubic Meter,5.4
+06089,County,Shasta County,2008,Micrograms per Cubic Meter,14.7
+06089,County,Shasta County,2010,Micrograms per Cubic Meter,6.3
+06089,County,Shasta County,2009,Micrograms per Cubic Meter,6.7
+06089,County,Shasta County,2007,Micrograms per Cubic Meter,5.6
+06089,County,Shasta County,2006,Micrograms per Cubic Meter,8.7
+06089,County,Shasta County,2003,Micrograms per Cubic Meter,10.1
+06089,County,Shasta County,2004,Micrograms per Cubic Meter,7.2
+06089,County,Shasta County,2005,Micrograms per Cubic Meter,7.3
+06089,County,Shasta County,2002,Micrograms per Cubic Meter,7.3
+06089,County,Shasta County,2001,Micrograms per Cubic Meter,9.2
+06089,County,Shasta County,1999,Micrograms per Cubic Meter,12.9
+06089,County,Shasta County,2000,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2000,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,1999,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2001,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2003,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2002,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2005,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2004,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2006,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2007,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2009,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2008,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2011,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2010,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2014,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2012,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2013,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2015,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2016,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2018,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2019,Micrograms per Cubic Meter,N_A
+06035,County,Lassen County,2017,Micrograms per Cubic Meter,N_A
+06045,County,Mendocino County,2017,Micrograms per Cubic Meter,9.4
+06045,County,Mendocino County,2018,Micrograms per Cubic Meter,11.3
+06045,County,Mendocino County,2019,Micrograms per Cubic Meter,6.0
+06045,County,Mendocino County,2016,Micrograms per Cubic Meter,6.4
+06045,County,Mendocino County,2015,Micrograms per Cubic Meter,8.6
+06045,County,Mendocino County,2013,Micrograms per Cubic Meter,N_A
+06045,County,Mendocino County,2012,Micrograms per Cubic Meter,7.2
+06045,County,Mendocino County,2014,Micrograms per Cubic Meter,5.5
+06045,County,Mendocino County,2010,Micrograms per Cubic Meter,7.7
+06045,County,Mendocino County,2011,Micrograms per Cubic Meter,9.8
+06045,County,Mendocino County,2008,Micrograms per Cubic Meter,7.9
+06045,County,Mendocino County,2009,Micrograms per Cubic Meter,N_A
+06045,County,Mendocino County,2007,Micrograms per Cubic Meter,4.7
+06045,County,Mendocino County,2006,Micrograms per Cubic Meter,6.8
+06045,County,Mendocino County,2005,Micrograms per Cubic Meter,6.2
+06045,County,Mendocino County,2004,Micrograms per Cubic Meter,7.0
+06045,County,Mendocino County,2002,Micrograms per Cubic Meter,9.1
+06045,County,Mendocino County,2003,Micrograms per Cubic Meter,7.4
+06045,County,Mendocino County,2001,Micrograms per Cubic Meter,8.0
+06045,County,Mendocino County,1999,Micrograms per Cubic Meter,8.9
+06045,County,Mendocino County,2000,Micrograms per Cubic Meter,N_A
+06103,County,Tehama County,2000,Micrograms per Cubic Meter,N_A
+06103,County,Tehama County,1999,Micrograms per Cubic Meter,N_A
+06103,County,Tehama County,2002,Micrograms per Cubic Meter,N_A
+06103,County,Tehama County,2001,Micrograms per Cubic Meter,N_A
+06103,County,Tehama County,2004,Micrograms per Cubic Meter,N_A
+06103,County,Tehama County,2003,Micrograms per Cubic Meter,N_A
+06103,County,Tehama County,2006,Micrograms per Cubic Meter,N_A
+06103,County,Tehama County,2005,Micrograms per Cubic Meter,N_A
+06103,County,Tehama County,2007,Micrograms per Cubic Meter,N_A
+06103,County,Tehama County,2010,Micrograms per Cubic Meter,N_A
+06103,County,Tehama County,2009,Micrograms per Cubic Meter,N_A
+06103,County,Tehama County,2008,Micrograms per Cubic Meter,N_A
+06103,County,Tehama County,2011,Micrograms per Cubic Meter,N_A
+06103,County,Tehama County,2012,Micrograms per Cubic Meter,N_A
+06103,County,Tehama County,2014,Micrograms per Cubic Meter,N_A
+06103,County,Tehama County,2013,Micrograms per Cubic Meter,N_A
+06103,County,Tehama County,2015,Micrograms per Cubic Meter,N_A
+06103,County,Tehama County,2016,Micrograms per Cubic Meter,N_A
+06103,County,Tehama County,2019,Micrograms per Cubic Meter,5.4
+06103,County,Tehama County,2018,Micrograms per Cubic Meter,10.5
+06103,County,Tehama County,2017,Micrograms per Cubic Meter,7.2
+06063,County,Plumas County,2017,Micrograms per Cubic Meter,15.8
+06063,County,Plumas County,2018,Micrograms per Cubic Meter,14.6
+06063,County,Plumas County,2019,Micrograms per Cubic Meter,12.2
+06063,County,Plumas County,2016,Micrograms per Cubic Meter,13.9
+06063,County,Plumas County,2015,Micrograms per Cubic Meter,15.6
+06063,County,Plumas County,2014,Micrograms per Cubic Meter,15.6
+06063,County,Plumas County,2013,Micrograms per Cubic Meter,N_A
+06063,County,Plumas County,2012,Micrograms per Cubic Meter,N_A
+06063,County,Plumas County,2011,Micrograms per Cubic Meter,11.9
+06063,County,Plumas County,2010,Micrograms per Cubic Meter,9.7
+06063,County,Plumas County,2008,Micrograms per Cubic Meter,15.2
+06063,County,Plumas County,2009,Micrograms per Cubic Meter,10.4
+06063,County,Plumas County,2007,Micrograms per Cubic Meter,13.0
+06063,County,Plumas County,2006,Micrograms per Cubic Meter,9.1
+06063,County,Plumas County,2003,Micrograms per Cubic Meter,13.3
+06063,County,Plumas County,2004,Micrograms per Cubic Meter,11.7
+06063,County,Plumas County,2005,Micrograms per Cubic Meter,10.6
+06063,County,Plumas County,2001,Micrograms per Cubic Meter,15.6
+06063,County,Plumas County,2002,Micrograms per Cubic Meter,N_A
+06063,County,Plumas County,1999,Micrograms per Cubic Meter,N_A
+06063,County,Plumas County,2000,Micrograms per Cubic Meter,N_A
+06007,County,Butte County,2000,Micrograms per Cubic Meter,15.8
+06007,County,Butte County,2001,Micrograms per Cubic Meter,13.0
+06007,County,Butte County,1999,Micrograms per Cubic Meter,17.5
+06007,County,Butte County,2002,Micrograms per Cubic Meter,15.1
+06007,County,Butte County,2003,Micrograms per Cubic Meter,10.5
+06007,County,Butte County,2004,Micrograms per Cubic Meter,15.1
+06007,County,Butte County,2005,Micrograms per Cubic Meter,12.3
+06007,County,Butte County,2006,Micrograms per Cubic Meter,13.2
+06007,County,Butte County,2007,Micrograms per Cubic Meter,10.7
+06007,County,Butte County,2009,Micrograms per Cubic Meter,10.0
+06007,County,Butte County,2008,Micrograms per Cubic Meter,16.4
+06007,County,Butte County,2010,Micrograms per Cubic Meter,8.0
+06007,County,Butte County,2011,Micrograms per Cubic Meter,12.1
+06007,County,Butte County,2013,Micrograms per Cubic Meter,10.1
+06007,County,Butte County,2012,Micrograms per Cubic Meter,N_A
+06007,County,Butte County,2015,Micrograms per Cubic Meter,9.1
+06007,County,Butte County,2014,Micrograms per Cubic Meter,8.8
+06007,County,Butte County,2016,Micrograms per Cubic Meter,7.7
+06007,County,Butte County,2017,Micrograms per Cubic Meter,9.0
+06007,County,Butte County,2018,Micrograms per Cubic Meter,13.7
+06007,County,Butte County,2019,Micrograms per Cubic Meter,7.0
+06021,County,Glenn County,2019,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,2018,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,2017,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,2016,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,2015,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,2012,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,2013,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,2014,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,2011,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,2010,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,2008,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,2009,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,2007,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,2006,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,2004,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,2005,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,2003,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,2002,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,2001,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,1999,Micrograms per Cubic Meter,N_A
+06021,County,Glenn County,2000,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2000,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,1999,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2001,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2002,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2005,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2004,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2003,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2006,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2007,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2010,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2009,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2008,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2011,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2012,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2013,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2014,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2015,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2016,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2018,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2017,Micrograms per Cubic Meter,N_A
+06091,County,Sierra County,2019,Micrograms per Cubic Meter,N_A
+06057,County,Nevada County,2019,Micrograms per Cubic Meter,5.8
+06057,County,Nevada County,2017,Micrograms per Cubic Meter,5.0
+06057,County,Nevada County,2018,Micrograms per Cubic Meter,6.2
+06057,County,Nevada County,2016,Micrograms per Cubic Meter,6.2
+06057,County,Nevada County,2015,Micrograms per Cubic Meter,4.6
+06057,County,Nevada County,2014,Micrograms per Cubic Meter,N_A
+06057,County,Nevada County,2013,Micrograms per Cubic Meter,5.7
+06057,County,Nevada County,2012,Micrograms per Cubic Meter,3.8
+06057,County,Nevada County,2011,Micrograms per Cubic Meter,4.2
+06057,County,Nevada County,2010,Micrograms per Cubic Meter,N_A
+06057,County,Nevada County,2008,Micrograms per Cubic Meter,9.6
+06057,County,Nevada County,2009,Micrograms per Cubic Meter,5.9
+06057,County,Nevada County,2007,Micrograms per Cubic Meter,6.0
+06057,County,Nevada County,2006,Micrograms per Cubic Meter,6.2
+06057,County,Nevada County,2004,Micrograms per Cubic Meter,7.1
+06057,County,Nevada County,2005,Micrograms per Cubic Meter,6.8
+06057,County,Nevada County,2001,Micrograms per Cubic Meter,9.4
+06057,County,Nevada County,2002,Micrograms per Cubic Meter,7.6
+06057,County,Nevada County,2003,Micrograms per Cubic Meter,7.3
+06057,County,Nevada County,1999,Micrograms per Cubic Meter,N_A
+06057,County,Nevada County,2000,Micrograms per Cubic Meter,8.8
+06115,County,Yuba County,1999,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2000,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2001,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2002,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2003,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2004,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2005,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2006,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2007,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2008,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2009,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2010,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2011,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2012,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2013,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2014,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2015,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2016,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2017,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2018,Micrograms per Cubic Meter,N_A
+06115,County,Yuba County,2019,Micrograms per Cubic Meter,N_A
+06011,County,Colusa County,2019,Micrograms per Cubic Meter,7.0
+06011,County,Colusa County,2018,Micrograms per Cubic Meter,N_A
+06011,County,Colusa County,2017,Micrograms per Cubic Meter,8.0
+06011,County,Colusa County,2016,Micrograms per Cubic Meter,6.3
+06011,County,Colusa County,2015,Micrograms per Cubic Meter,8.4
+06011,County,Colusa County,2014,Micrograms per Cubic Meter,7.2
+06011,County,Colusa County,2013,Micrograms per Cubic Meter,7.2
+06011,County,Colusa County,2012,Micrograms per Cubic Meter,7.3
+06011,County,Colusa County,2010,Micrograms per Cubic Meter,N_A
+06011,County,Colusa County,2011,Micrograms per Cubic Meter,N_A
+06011,County,Colusa County,2008,Micrograms per Cubic Meter,N_A
+06011,County,Colusa County,2009,Micrograms per Cubic Meter,N_A
+06011,County,Colusa County,2007,Micrograms per Cubic Meter,6.7
+06011,County,Colusa County,2006,Micrograms per Cubic Meter,7.9
+06011,County,Colusa County,2004,Micrograms per Cubic Meter,7.3
+06011,County,Colusa County,2005,Micrograms per Cubic Meter,7.0
+06011,County,Colusa County,2003,Micrograms per Cubic Meter,N_A
+06011,County,Colusa County,2002,Micrograms per Cubic Meter,N_A
+06011,County,Colusa County,1999,Micrograms per Cubic Meter,N_A
+06011,County,Colusa County,2000,Micrograms per Cubic Meter,N_A
+06011,County,Colusa County,2001,Micrograms per Cubic Meter,9.6
+06033,County,Lake County,2000,Micrograms per Cubic Meter,4.4
+06033,County,Lake County,1999,Micrograms per Cubic Meter,N_A
+06033,County,Lake County,2002,Micrograms per Cubic Meter,6.4
+06033,County,Lake County,2003,Micrograms per Cubic Meter,4.4
+06033,County,Lake County,2001,Micrograms per Cubic Meter,4.2
+06033,County,Lake County,2004,Micrograms per Cubic Meter,4.4
+06033,County,Lake County,2005,Micrograms per Cubic Meter,4.8
+06033,County,Lake County,2006,Micrograms per Cubic Meter,5.2
+06033,County,Lake County,2007,Micrograms per Cubic Meter,3.4
+06033,County,Lake County,2008,Micrograms per Cubic Meter,7.4
+06033,County,Lake County,2009,Micrograms per Cubic Meter,3.4
+06033,County,Lake County,2011,Micrograms per Cubic Meter,3.5
+06033,County,Lake County,2010,Micrograms per Cubic Meter,3.1
+06033,County,Lake County,2012,Micrograms per Cubic Meter,3.9
+06033,County,Lake County,2013,Micrograms per Cubic Meter,3.9
+06033,County,Lake County,2014,Micrograms per Cubic Meter,4.1
+06033,County,Lake County,2015,Micrograms per Cubic Meter,3.8
+06033,County,Lake County,2016,Micrograms per Cubic Meter,3.0
+06033,County,Lake County,2019,Micrograms per Cubic Meter,3.1
+06033,County,Lake County,2018,Micrograms per Cubic Meter,9.3
+06033,County,Lake County,2017,Micrograms per Cubic Meter,N_A
+06097,County,Sonoma County,2018,Micrograms per Cubic Meter,8.3
+06097,County,Sonoma County,2017,Micrograms per Cubic Meter,8.1
+06097,County,Sonoma County,2019,Micrograms per Cubic Meter,5.7
+06097,County,Sonoma County,2016,Micrograms per Cubic Meter,4.6
+06097,County,Sonoma County,2015,Micrograms per Cubic Meter,6.8
+06097,County,Sonoma County,2014,Micrograms per Cubic Meter,7.7
+06097,County,Sonoma County,2013,Micrograms per Cubic Meter,8.5
+06097,County,Sonoma County,2011,Micrograms per Cubic Meter,8.6
+06097,County,Sonoma County,2012,Micrograms per Cubic Meter,8.2
+06097,County,Sonoma County,2009,Micrograms per Cubic Meter,8.4
+06097,County,Sonoma County,2010,Micrograms per Cubic Meter,7.2
+06097,County,Sonoma County,2008,Micrograms per Cubic Meter,8.6
+06097,County,Sonoma County,2007,Micrograms per Cubic Meter,7.6
+06097,County,Sonoma County,2005,Micrograms per Cubic Meter,7.6
+06097,County,Sonoma County,2006,Micrograms per Cubic Meter,9.2
+06097,County,Sonoma County,2003,Micrograms per Cubic Meter,8.7
+06097,County,Sonoma County,2004,Micrograms per Cubic Meter,8.3
+06097,County,Sonoma County,2001,Micrograms per Cubic Meter,10.8
+06097,County,Sonoma County,2002,Micrograms per Cubic Meter,10.5
+06097,County,Sonoma County,1999,Micrograms per Cubic Meter,N_A
+06097,County,Sonoma County,2000,Micrograms per Cubic Meter,10.5
+06055,County,Napa County,2000,Micrograms per Cubic Meter,N_A
+06055,County,Napa County,1999,Micrograms per Cubic Meter,N_A
+06055,County,Napa County,2001,Micrograms per Cubic Meter,N_A
+06055,County,Napa County,2003,Micrograms per Cubic Meter,N_A
+06055,County,Napa County,2002,Micrograms per Cubic Meter,N_A
+06055,County,Napa County,2004,Micrograms per Cubic Meter,N_A
+06055,County,Napa County,2005,Micrograms per Cubic Meter,N_A
+06055,County,Napa County,2006,Micrograms per Cubic Meter,N_A
+06055,County,Napa County,2007,Micrograms per Cubic Meter,N_A
+06055,County,Napa County,2008,Micrograms per Cubic Meter,N_A
+06055,County,Napa County,2009,Micrograms per Cubic Meter,N_A
+06055,County,Napa County,2012,Micrograms per Cubic Meter,N_A
+06055,County,Napa County,2011,Micrograms per Cubic Meter,N_A
+06055,County,Napa County,2010,Micrograms per Cubic Meter,N_A
+06055,County,Napa County,2014,Micrograms per Cubic Meter,12.0
+06055,County,Napa County,2013,Micrograms per Cubic Meter,11.7
+06055,County,Napa County,2015,Micrograms per Cubic Meter,10.6
+06055,County,Napa County,2016,Micrograms per Cubic Meter,8.5
+06055,County,Napa County,2019,Micrograms per Cubic Meter,5.9
+06055,County,Napa County,2017,Micrograms per Cubic Meter,13.7
+06055,County,Napa County,2018,Micrograms per Cubic Meter,N_A
+06113,County,Yolo County,2018,Micrograms per Cubic Meter,12.8
+06113,County,Yolo County,2017,Micrograms per Cubic Meter,8.7
+06113,County,Yolo County,2019,Micrograms per Cubic Meter,N_A
+06113,County,Yolo County,2015,Micrograms per Cubic Meter,7.6
+06113,County,Yolo County,2016,Micrograms per Cubic Meter,6.4
+06113,County,Yolo County,2013,Micrograms per Cubic Meter,7.5
+06113,County,Yolo County,2014,Micrograms per Cubic Meter,5.9
+06113,County,Yolo County,2012,Micrograms per Cubic Meter,6.4
+06113,County,Yolo County,2011,Micrograms per Cubic Meter,7.6
+06113,County,Yolo County,2009,Micrograms per Cubic Meter,7.5
+06113,County,Yolo County,2010,Micrograms per Cubic Meter,5.7
+06113,County,Yolo County,2007,Micrograms per Cubic Meter,8.3
+06113,County,Yolo County,2008,Micrograms per Cubic Meter,N_A
+06113,County,Yolo County,2006,Micrograms per Cubic Meter,9.3
+06113,County,Yolo County,2005,Micrograms per Cubic Meter,8.4
+06113,County,Yolo County,2003,Micrograms per Cubic Meter,8.4
+06113,County,Yolo County,2004,Micrograms per Cubic Meter,10.4
+06113,County,Yolo County,2002,Micrograms per Cubic Meter,10.7
+06113,County,Yolo County,2001,Micrograms per Cubic Meter,N_A
+06113,County,Yolo County,2000,Micrograms per Cubic Meter,10.3
+06113,County,Yolo County,1999,Micrograms per Cubic Meter,16.3
+06095,County,Solano County,2000,Micrograms per Cubic Meter,11.6
+06095,County,Solano County,1999,Micrograms per Cubic Meter,N_A
+06095,County,Solano County,2002,Micrograms per Cubic Meter,14.0
+06095,County,Solano County,2001,Micrograms per Cubic Meter,12.5
+06095,County,Solano County,2003,Micrograms per Cubic Meter,9.4
+06095,County,Solano County,2004,Micrograms per Cubic Meter,11.1
+06095,County,Solano County,2005,Micrograms per Cubic Meter,9.7
+06095,County,Solano County,2006,Micrograms per Cubic Meter,9.8
+06095,County,Solano County,2007,Micrograms per Cubic Meter,9.8
+06095,County,Solano County,2008,Micrograms per Cubic Meter,9.9
+06095,County,Solano County,2009,Micrograms per Cubic Meter,9.7
+06095,County,Solano County,2010,Micrograms per Cubic Meter,7.7
+06095,County,Solano County,2012,Micrograms per Cubic Meter,9.0
+06095,County,Solano County,2011,Micrograms per Cubic Meter,9.8
+06095,County,Solano County,2014,Micrograms per Cubic Meter,9.9
+06095,County,Solano County,2013,Micrograms per Cubic Meter,9.9
+06095,County,Solano County,2016,Micrograms per Cubic Meter,7.4
+06095,County,Solano County,2015,Micrograms per Cubic Meter,9.6
+06095,County,Solano County,2019,Micrograms per Cubic Meter,8.6
+06095,County,Solano County,2018,Micrograms per Cubic Meter,13.3
+06095,County,Solano County,2017,Micrograms per Cubic Meter,11.6
+06101,County,Sutter County,2017,Micrograms per Cubic Meter,9.3
+06101,County,Sutter County,2018,Micrograms per Cubic Meter,10.3
+06101,County,Sutter County,2019,Micrograms per Cubic Meter,8.4
+06101,County,Sutter County,2015,Micrograms per Cubic Meter,9.6
+06101,County,Sutter County,2016,Micrograms per Cubic Meter,8.1
+06101,County,Sutter County,2013,Micrograms per Cubic Meter,8.2
+06101,County,Sutter County,2014,Micrograms per Cubic Meter,N_A
+06101,County,Sutter County,2011,Micrograms per Cubic Meter,8.0
+06101,County,Sutter County,2012,Micrograms per Cubic Meter,6.9
+06101,County,Sutter County,2010,Micrograms per Cubic Meter,5.9
+06101,County,Sutter County,2009,Micrograms per Cubic Meter,7.9
+06101,County,Sutter County,2008,Micrograms per Cubic Meter,10.7
+06101,County,Sutter County,2007,Micrograms per Cubic Meter,8.2
+06101,County,Sutter County,2006,Micrograms per Cubic Meter,11.4
+06101,County,Sutter County,2005,Micrograms per Cubic Meter,9.5
+06101,County,Sutter County,2004,Micrograms per Cubic Meter,10.0
+06101,County,Sutter County,2003,Micrograms per Cubic Meter,9.5
+06101,County,Sutter County,2002,Micrograms per Cubic Meter,13.6
+06101,County,Sutter County,2001,Micrograms per Cubic Meter,11.9
+06101,County,Sutter County,2000,Micrograms per Cubic Meter,10.6
+06101,County,Sutter County,1999,Micrograms per Cubic Meter,16.3
+06061,County,Placer County,1999,Micrograms per Cubic Meter,13.4
+06061,County,Placer County,2000,Micrograms per Cubic Meter,12.2
+06061,County,Placer County,2001,Micrograms per Cubic Meter,11.9
+06061,County,Placer County,2002,Micrograms per Cubic Meter,13.2
+06061,County,Placer County,2003,Micrograms per Cubic Meter,9.9
+06061,County,Placer County,2004,Micrograms per Cubic Meter,9.4
+06061,County,Placer County,2005,Micrograms per Cubic Meter,10.0
+06061,County,Placer County,2006,Micrograms per Cubic Meter,10.5
+06061,County,Placer County,2007,Micrograms per Cubic Meter,8.4
+06061,County,Placer County,2008,Micrograms per Cubic Meter,10.0
+06061,County,Placer County,2009,Micrograms per Cubic Meter,8.6
+06061,County,Placer County,2012,Micrograms per Cubic Meter,6.5
+06061,County,Placer County,2011,Micrograms per Cubic Meter,8.5
+06061,County,Placer County,2010,Micrograms per Cubic Meter,6.6
+06061,County,Placer County,2013,Micrograms per Cubic Meter,7.5
+06061,County,Placer County,2014,Micrograms per Cubic Meter,7.8
+06061,County,Placer County,2016,Micrograms per Cubic Meter,6.8
+06061,County,Placer County,2015,Micrograms per Cubic Meter,8.1
+06061,County,Placer County,2019,Micrograms per Cubic Meter,7.2
+06061,County,Placer County,2017,Micrograms per Cubic Meter,7.2
+06061,County,Placer County,2018,Micrograms per Cubic Meter,11.9
+06067,County,Sacramento County,2018,Micrograms per Cubic Meter,12.8
+06067,County,Sacramento County,2017,Micrograms per Cubic Meter,9.7
+06067,County,Sacramento County,2019,Micrograms per Cubic Meter,8.4
+06067,County,Sacramento County,2015,Micrograms per Cubic Meter,10.4
+06067,County,Sacramento County,2016,Micrograms per Cubic Meter,8.8
+06067,County,Sacramento County,2014,Micrograms per Cubic Meter,8.8
+06067,County,Sacramento County,2013,Micrograms per Cubic Meter,11.5
+06067,County,Sacramento County,2010,Micrograms per Cubic Meter,8.8
+06067,County,Sacramento County,2011,Micrograms per Cubic Meter,10.5
+06067,County,Sacramento County,2012,Micrograms per Cubic Meter,9.1
+06067,County,Sacramento County,2009,Micrograms per Cubic Meter,10.7
+06067,County,Sacramento County,2008,Micrograms per Cubic Meter,13.2
+06067,County,Sacramento County,2007,Micrograms per Cubic Meter,12.3
+06067,County,Sacramento County,2006,Micrograms per Cubic Meter,13.1
+06067,County,Sacramento County,2004,Micrograms per Cubic Meter,11.5
+06067,County,Sacramento County,2003,Micrograms per Cubic Meter,12.3
+06067,County,Sacramento County,2005,Micrograms per Cubic Meter,11.5
+06067,County,Sacramento County,2002,Micrograms per Cubic Meter,14.3
+06067,County,Sacramento County,2001,Micrograms per Cubic Meter,N_A
+06067,County,Sacramento County,2000,Micrograms per Cubic Meter,12.3
+06067,County,Sacramento County,1999,Micrograms per Cubic Meter,19.9
+06017,County,El Dorado County,1999,Micrograms per Cubic Meter,8.3
+06017,County,El Dorado County,2000,Micrograms per Cubic Meter,7.7
+06017,County,El Dorado County,2001,Micrograms per Cubic Meter,8.2
+06017,County,El Dorado County,2002,Micrograms per Cubic Meter,7.6
+06017,County,El Dorado County,2003,Micrograms per Cubic Meter,7.2
+06017,County,El Dorado County,2004,Micrograms per Cubic Meter,N_A
+06017,County,El Dorado County,2005,Micrograms per Cubic Meter,N_A
+06017,County,El Dorado County,2006,Micrograms per Cubic Meter,N_A
+06017,County,El Dorado County,2007,Micrograms per Cubic Meter,N_A
+06017,County,El Dorado County,2008,Micrograms per Cubic Meter,N_A
+06017,County,El Dorado County,2009,Micrograms per Cubic Meter,N_A
+06017,County,El Dorado County,2010,Micrograms per Cubic Meter,N_A
+06017,County,El Dorado County,2011,Micrograms per Cubic Meter,N_A
+06017,County,El Dorado County,2012,Micrograms per Cubic Meter,N_A
+06017,County,El Dorado County,2013,Micrograms per Cubic Meter,N_A
+06017,County,El Dorado County,2014,Micrograms per Cubic Meter,N_A
+06017,County,El Dorado County,2016,Micrograms per Cubic Meter,N_A
+06017,County,El Dorado County,2015,Micrograms per Cubic Meter,N_A
+06017,County,El Dorado County,2017,Micrograms per Cubic Meter,N_A
+06017,County,El Dorado County,2019,Micrograms per Cubic Meter,N_A
+06017,County,El Dorado County,2018,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2018,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2019,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2015,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2014,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2016,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2017,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2012,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2013,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2010,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2011,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2008,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2009,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2006,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2007,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2004,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2005,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2003,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2002,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2001,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,2000,Micrograms per Cubic Meter,N_A
+06003,County,Alpine County,1999,Micrograms per Cubic Meter,N_A
+06009,County,Calaveras County,1999,Micrograms per Cubic Meter,11.1
+06009,County,Calaveras County,2000,Micrograms per Cubic Meter,9.0
+06009,County,Calaveras County,2001,Micrograms per Cubic Meter,8.1
+06009,County,Calaveras County,2002,Micrograms per Cubic Meter,9.9
+06009,County,Calaveras County,2003,Micrograms per Cubic Meter,8.6
+06009,County,Calaveras County,2005,Micrograms per Cubic Meter,7.0
+06009,County,Calaveras County,2004,Micrograms per Cubic Meter,7.6
+06009,County,Calaveras County,2007,Micrograms per Cubic Meter,7.9
+06009,County,Calaveras County,2006,Micrograms per Cubic Meter,8.6
+06009,County,Calaveras County,2009,Micrograms per Cubic Meter,6.1
+06009,County,Calaveras County,2008,Micrograms per Cubic Meter,8.6
+06009,County,Calaveras County,2011,Micrograms per Cubic Meter,9.1
+06009,County,Calaveras County,2010,Micrograms per Cubic Meter,6.4
+06009,County,Calaveras County,2012,Micrograms per Cubic Meter,7.0
+06009,County,Calaveras County,2013,Micrograms per Cubic Meter,9.1
+06009,County,Calaveras County,2017,Micrograms per Cubic Meter,N_A
+06009,County,Calaveras County,2016,Micrograms per Cubic Meter,8.1
+06009,County,Calaveras County,2014,Micrograms per Cubic Meter,7.9
+06009,County,Calaveras County,2015,Micrograms per Cubic Meter,8.7
+06009,County,Calaveras County,2019,Micrograms per Cubic Meter,5.5
+06009,County,Calaveras County,2018,Micrograms per Cubic Meter,14.6
+06077,County,San Joaquin County,2018,Micrograms per Cubic Meter,17.6
+06077,County,San Joaquin County,2017,Micrograms per Cubic Meter,12.1
+06077,County,San Joaquin County,2019,Micrograms per Cubic Meter,9.3
+06077,County,San Joaquin County,2015,Micrograms per Cubic Meter,12.8
+06077,County,San Joaquin County,2016,Micrograms per Cubic Meter,11.8
+06077,County,San Joaquin County,2013,Micrograms per Cubic Meter,17.7
+06077,County,San Joaquin County,2014,Micrograms per Cubic Meter,12.1
+06077,County,San Joaquin County,2010,Micrograms per Cubic Meter,10.9
+06077,County,San Joaquin County,2012,Micrograms per Cubic Meter,12.4
+06077,County,San Joaquin County,2011,Micrograms per Cubic Meter,11.3
+06077,County,San Joaquin County,2008,Micrograms per Cubic Meter,14.4
+06077,County,San Joaquin County,2009,Micrograms per Cubic Meter,11.3
+06077,County,San Joaquin County,2006,Micrograms per Cubic Meter,13.1
+06077,County,San Joaquin County,2007,Micrograms per Cubic Meter,12.9
+06077,County,San Joaquin County,2005,Micrograms per Cubic Meter,12.5
+06077,County,San Joaquin County,2003,Micrograms per Cubic Meter,13.6
+06077,County,San Joaquin County,2004,Micrograms per Cubic Meter,13.2
+06077,County,San Joaquin County,2002,Micrograms per Cubic Meter,16.7
+06077,County,San Joaquin County,2001,Micrograms per Cubic Meter,13.9
+06077,County,San Joaquin County,2000,Micrograms per Cubic Meter,15.5
+06077,County,San Joaquin County,1999,Micrograms per Cubic Meter,19.7
+06099,County,Stanislaus County,1999,Micrograms per Cubic Meter,24.9
+06099,County,Stanislaus County,2000,Micrograms per Cubic Meter,18.7
+06099,County,Stanislaus County,2001,Micrograms per Cubic Meter,15.6
+06099,County,Stanislaus County,2002,Micrograms per Cubic Meter,18.7
+06099,County,Stanislaus County,2004,Micrograms per Cubic Meter,13.6
+06099,County,Stanislaus County,2003,Micrograms per Cubic Meter,14.5
+06099,County,Stanislaus County,2007,Micrograms per Cubic Meter,15.0
+06099,County,Stanislaus County,2005,Micrograms per Cubic Meter,13.9
+06099,County,Stanislaus County,2006,Micrograms per Cubic Meter,14.8
+06099,County,Stanislaus County,2009,Micrograms per Cubic Meter,16.1
+06099,County,Stanislaus County,2010,Micrograms per Cubic Meter,12.7
+06099,County,Stanislaus County,2008,Micrograms per Cubic Meter,16.0
+06099,County,Stanislaus County,2011,Micrograms per Cubic Meter,17.1
+06099,County,Stanislaus County,2012,Micrograms per Cubic Meter,14.8
+06099,County,Stanislaus County,2013,Micrograms per Cubic Meter,15.0
+06099,County,Stanislaus County,2014,Micrograms per Cubic Meter,12.3
+06099,County,Stanislaus County,2016,Micrograms per Cubic Meter,12.6
+06099,County,Stanislaus County,2015,Micrograms per Cubic Meter,14.2
+06099,County,Stanislaus County,2019,Micrograms per Cubic Meter,10.6
+06099,County,Stanislaus County,2017,Micrograms per Cubic Meter,12.9
+06099,County,Stanislaus County,2018,Micrograms per Cubic Meter,17.2
+06109,County,Tuolumne County,2018,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,2017,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,2019,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,2015,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,2016,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,2014,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,2013,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,2011,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,2012,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,2008,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,2010,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,2009,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,2006,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,2005,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,2007,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,2003,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,2004,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,2001,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,2002,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,1999,Micrograms per Cubic Meter,N_A
+06109,County,Tuolumne County,2000,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,2000,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,1999,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,2001,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,2002,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,2003,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,2004,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,2005,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,2007,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,2006,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,2009,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,2008,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,2012,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,2010,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,2011,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,2014,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,2013,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,2016,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,2015,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,2019,Micrograms per Cubic Meter,8.5
+06051,County,Mono County,2017,Micrograms per Cubic Meter,N_A
+06051,County,Mono County,2018,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2018,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2019,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2017,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2015,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2016,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2013,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2012,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2014,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2011,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2010,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2008,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2009,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2006,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2007,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2005,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2004,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2003,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2002,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2001,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,1999,Micrograms per Cubic Meter,N_A
+06043,County,Mariposa County,2000,Micrograms per Cubic Meter,N_A
+06047,County,Merced County,2000,Micrograms per Cubic Meter,16.7
+06047,County,Merced County,1999,Micrograms per Cubic Meter,N_A
+06047,County,Merced County,2001,Micrograms per Cubic Meter,14.5
+06047,County,Merced County,2002,Micrograms per Cubic Meter,18.7
+06047,County,Merced County,2003,Micrograms per Cubic Meter,15.7
+06047,County,Merced County,2004,Micrograms per Cubic Meter,15.2
+06047,County,Merced County,2005,Micrograms per Cubic Meter,14.1
+06047,County,Merced County,2007,Micrograms per Cubic Meter,15.2
+06047,County,Merced County,2006,Micrograms per Cubic Meter,14.8
+06047,County,Merced County,2009,Micrograms per Cubic Meter,13.6
+06047,County,Merced County,2008,Micrograms per Cubic Meter,N_A
+06047,County,Merced County,2010,Micrograms per Cubic Meter,16.3
+06047,County,Merced County,2011,Micrograms per Cubic Meter,15.6
+06047,County,Merced County,2014,Micrograms per Cubic Meter,11.2
+06047,County,Merced County,2012,Micrograms per Cubic Meter,11.0
+06047,County,Merced County,2013,Micrograms per Cubic Meter,13.5
+06047,County,Merced County,2016,Micrograms per Cubic Meter,11.9
+06047,County,Merced County,2015,Micrograms per Cubic Meter,12.7
+06047,County,Merced County,2017,Micrograms per Cubic Meter,13.3
+06047,County,Merced County,2018,Micrograms per Cubic Meter,15.1
+06047,County,Merced County,2019,Micrograms per Cubic Meter,9.6
+06069,County,San Benito County,2019,Micrograms per Cubic Meter,4.9
+06069,County,San Benito County,2018,Micrograms per Cubic Meter,7.2
+06069,County,San Benito County,2017,Micrograms per Cubic Meter,5.1
+06069,County,San Benito County,2015,Micrograms per Cubic Meter,4.3
+06069,County,San Benito County,2016,Micrograms per Cubic Meter,4.3
+06069,County,San Benito County,2013,Micrograms per Cubic Meter,5.9
+06069,County,San Benito County,2014,Micrograms per Cubic Meter,4.6
+06069,County,San Benito County,2010,Micrograms per Cubic Meter,5.7
+06069,County,San Benito County,2012,Micrograms per Cubic Meter,4.8
+06069,County,San Benito County,2011,Micrograms per Cubic Meter,5.7
+06069,County,San Benito County,2008,Micrograms per Cubic Meter,7.0
+06069,County,San Benito County,2009,Micrograms per Cubic Meter,5.5
+06069,County,San Benito County,2006,Micrograms per Cubic Meter,N_A
+06069,County,San Benito County,2007,Micrograms per Cubic Meter,6.2
+06069,County,San Benito County,2005,Micrograms per Cubic Meter,N_A
+06069,County,San Benito County,2004,Micrograms per Cubic Meter,N_A
+06069,County,San Benito County,2003,Micrograms per Cubic Meter,N_A
+06069,County,San Benito County,2002,Micrograms per Cubic Meter,N_A
+06069,County,San Benito County,2001,Micrograms per Cubic Meter,N_A
+06069,County,San Benito County,1999,Micrograms per Cubic Meter,N_A
+06069,County,San Benito County,2000,Micrograms per Cubic Meter,N_A
+06039,County,Madera County,2000,Micrograms per Cubic Meter,N_A
+06039,County,Madera County,1999,Micrograms per Cubic Meter,N_A
+06039,County,Madera County,2001,Micrograms per Cubic Meter,N_A
+06039,County,Madera County,2002,Micrograms per Cubic Meter,N_A
+06039,County,Madera County,2003,Micrograms per Cubic Meter,N_A
+06039,County,Madera County,2005,Micrograms per Cubic Meter,N_A
+06039,County,Madera County,2004,Micrograms per Cubic Meter,N_A
+06039,County,Madera County,2007,Micrograms per Cubic Meter,N_A
+06039,County,Madera County,2006,Micrograms per Cubic Meter,N_A
+06039,County,Madera County,2009,Micrograms per Cubic Meter,N_A
+06039,County,Madera County,2008,Micrograms per Cubic Meter,N_A
+06039,County,Madera County,2011,Micrograms per Cubic Meter,20.4
+06039,County,Madera County,2010,Micrograms per Cubic Meter,N_A
+06039,County,Madera County,2014,Micrograms per Cubic Meter,14.0
+06039,County,Madera County,2013,Micrograms per Cubic Meter,17.8
+06039,County,Madera County,2012,Micrograms per Cubic Meter,16.0
+06039,County,Madera County,2016,Micrograms per Cubic Meter,12.0
+06039,County,Madera County,2015,Micrograms per Cubic Meter,13.8
+06039,County,Madera County,2017,Micrograms per Cubic Meter,12.5
+06039,County,Madera County,2018,Micrograms per Cubic Meter,14.0
+06039,County,Madera County,2019,Micrograms per Cubic Meter,N_A
+06019,County,Fresno County,2018,Micrograms per Cubic Meter,17.1
+06019,County,Fresno County,2019,Micrograms per Cubic Meter,11.2
+06019,County,Fresno County,2017,Micrograms per Cubic Meter,15.0
+06019,County,Fresno County,2015,Micrograms per Cubic Meter,15.0
+06019,County,Fresno County,2016,Micrograms per Cubic Meter,13.0
+06019,County,Fresno County,2012,Micrograms per Cubic Meter,15.4
+06019,County,Fresno County,2013,Micrograms per Cubic Meter,16.8
+06019,County,Fresno County,2014,Micrograms per Cubic Meter,16.6
+06019,County,Fresno County,2010,Micrograms per Cubic Meter,14.6
+06019,County,Fresno County,2011,Micrograms per Cubic Meter,17.9
+06019,County,Fresno County,2008,Micrograms per Cubic Meter,17.4
+06019,County,Fresno County,2009,Micrograms per Cubic Meter,18.3
+06019,County,Fresno County,2006,Micrograms per Cubic Meter,17.6
+06019,County,Fresno County,2007,Micrograms per Cubic Meter,18.8
+06019,County,Fresno County,2004,Micrograms per Cubic Meter,17.0
+06019,County,Fresno County,2005,Micrograms per Cubic Meter,16.9
+06019,County,Fresno County,2002,Micrograms per Cubic Meter,21.5
+06019,County,Fresno County,2003,Micrograms per Cubic Meter,18.5
+06019,County,Fresno County,1999,Micrograms per Cubic Meter,27.6
+06019,County,Fresno County,2001,Micrograms per Cubic Meter,19.8
+06019,County,Fresno County,2000,Micrograms per Cubic Meter,18.4
+06027,County,Inyo County,2000,Micrograms per Cubic Meter,N_A
+06027,County,Inyo County,2001,Micrograms per Cubic Meter,5.5
+06027,County,Inyo County,1999,Micrograms per Cubic Meter,N_A
+06027,County,Inyo County,2003,Micrograms per Cubic Meter,N_A
+06027,County,Inyo County,2002,Micrograms per Cubic Meter,8.2
+06027,County,Inyo County,2004,Micrograms per Cubic Meter,N_A
+06027,County,Inyo County,2005,Micrograms per Cubic Meter,N_A
+06027,County,Inyo County,2007,Micrograms per Cubic Meter,5.8
+06027,County,Inyo County,2006,Micrograms per Cubic Meter,N_A
+06027,County,Inyo County,2008,Micrograms per Cubic Meter,7.1
+06027,County,Inyo County,2009,Micrograms per Cubic Meter,6.8
+06027,County,Inyo County,2011,Micrograms per Cubic Meter,8.1
+06027,County,Inyo County,2010,Micrograms per Cubic Meter,7.0
+06027,County,Inyo County,2014,Micrograms per Cubic Meter,7.8
+06027,County,Inyo County,2012,Micrograms per Cubic Meter,6.6
+06027,County,Inyo County,2013,Micrograms per Cubic Meter,7.8
+06027,County,Inyo County,2016,Micrograms per Cubic Meter,6.1
+06027,County,Inyo County,2015,Micrograms per Cubic Meter,6.7
+06027,County,Inyo County,2017,Micrograms per Cubic Meter,7.6
+06027,County,Inyo County,2019,Micrograms per Cubic Meter,4.7
+06027,County,Inyo County,2018,Micrograms per Cubic Meter,7.4
+06107,County,Tulare County,2017,Micrograms per Cubic Meter,16.3
+06107,County,Tulare County,2018,Micrograms per Cubic Meter,17.3
+06107,County,Tulare County,2019,Micrograms per Cubic Meter,12.9
+06107,County,Tulare County,2015,Micrograms per Cubic Meter,16.1
+06107,County,Tulare County,2016,Micrograms per Cubic Meter,14.7
+06107,County,Tulare County,2013,Micrograms per Cubic Meter,18.9
+06107,County,Tulare County,2014,Micrograms per Cubic Meter,17.9
+06107,County,Tulare County,2011,Micrograms per Cubic Meter,16.1
+06107,County,Tulare County,2012,Micrograms per Cubic Meter,14.8
+06107,County,Tulare County,2009,Micrograms per Cubic Meter,16.0
+06107,County,Tulare County,2010,Micrograms per Cubic Meter,13.6
+06107,County,Tulare County,2008,Micrograms per Cubic Meter,19.8
+06107,County,Tulare County,2005,Micrograms per Cubic Meter,18.8
+06107,County,Tulare County,2006,Micrograms per Cubic Meter,18.8
+06107,County,Tulare County,2007,Micrograms per Cubic Meter,20.4
+06107,County,Tulare County,2004,Micrograms per Cubic Meter,17.0
+06107,County,Tulare County,2003,Micrograms per Cubic Meter,18.2
+06107,County,Tulare County,2002,Micrograms per Cubic Meter,23.2
+06107,County,Tulare County,2001,Micrograms per Cubic Meter,22.5
+06107,County,Tulare County,1999,Micrograms per Cubic Meter,27.6
+06107,County,Tulare County,2000,Micrograms per Cubic Meter,23.9
+06031,County,Kings County,2000,Micrograms per Cubic Meter,16.4
+06031,County,Kings County,1999,Micrograms per Cubic Meter,N_A
+06031,County,Kings County,2001,Micrograms per Cubic Meter,19.2
+06031,County,Kings County,2002,Micrograms per Cubic Meter,21.5
+06031,County,Kings County,2003,Micrograms per Cubic Meter,16.2
+06031,County,Kings County,2005,Micrograms per Cubic Meter,17.5
+06031,County,Kings County,2004,Micrograms per Cubic Meter,17.4
+06031,County,Kings County,2007,Micrograms per Cubic Meter,18.4
+06031,County,Kings County,2006,Micrograms per Cubic Meter,16.9
+06031,County,Kings County,2008,Micrograms per Cubic Meter,15.8
+06031,County,Kings County,2009,Micrograms per Cubic Meter,17.7
+06031,County,Kings County,2010,Micrograms per Cubic Meter,17.9
+06031,County,Kings County,2011,Micrograms per Cubic Meter,N_A
+06031,County,Kings County,2014,Micrograms per Cubic Meter,17.5
+06031,County,Kings County,2013,Micrograms per Cubic Meter,18.2
+06031,County,Kings County,2012,Micrograms per Cubic Meter,14.8
+06031,County,Kings County,2016,Micrograms per Cubic Meter,15.5
+06031,County,Kings County,2015,Micrograms per Cubic Meter,16.5
+06031,County,Kings County,2017,Micrograms per Cubic Meter,17.2
+06031,County,Kings County,2018,Micrograms per Cubic Meter,17.7
+06031,County,Kings County,2019,Micrograms per Cubic Meter,12.2
+06079,County,San Luis Obispo County,2018,Micrograms per Cubic Meter,8.8
+06079,County,San Luis Obispo County,2017,Micrograms per Cubic Meter,9.6
+06079,County,San Luis Obispo County,2019,Micrograms per Cubic Meter,7.0
+06079,County,San Luis Obispo County,2015,Micrograms per Cubic Meter,11.1
+06079,County,San Luis Obispo County,2016,Micrograms per Cubic Meter,8.2
+06079,County,San Luis Obispo County,2013,Micrograms per Cubic Meter,12.5
+06079,County,San Luis Obispo County,2014,Micrograms per Cubic Meter,12.8
+06079,County,San Luis Obispo County,2010,Micrograms per Cubic Meter,8.2
+06079,County,San Luis Obispo County,2012,Micrograms per Cubic Meter,9.6
+06079,County,San Luis Obispo County,2011,Micrograms per Cubic Meter,12.0
+06079,County,San Luis Obispo County,2009,Micrograms per Cubic Meter,9.2
+06079,County,San Luis Obispo County,2008,Micrograms per Cubic Meter,8.1
+06079,County,San Luis Obispo County,2006,Micrograms per Cubic Meter,8.4
+06079,County,San Luis Obispo County,2007,Micrograms per Cubic Meter,7.8
+06079,County,San Luis Obispo County,2005,Micrograms per Cubic Meter,7.4
+06079,County,San Luis Obispo County,2003,Micrograms per Cubic Meter,8.2
+06079,County,San Luis Obispo County,2004,Micrograms per Cubic Meter,8.3
+06079,County,San Luis Obispo County,2001,Micrograms per Cubic Meter,10.1
+06079,County,San Luis Obispo County,2002,Micrograms per Cubic Meter,9.2
+06079,County,San Luis Obispo County,1999,Micrograms per Cubic Meter,9.6
+06079,County,San Luis Obispo County,2000,Micrograms per Cubic Meter,10.3
+06029,County,Kern County,2000,Micrograms per Cubic Meter,22.6
+06029,County,Kern County,2001,Micrograms per Cubic Meter,21.8
+06029,County,Kern County,1999,Micrograms per Cubic Meter,27.4
+06029,County,Kern County,2003,Micrograms per Cubic Meter,19.6
+06029,County,Kern County,2002,Micrograms per Cubic Meter,24.1
+06029,County,Kern County,2005,Micrograms per Cubic Meter,19.8
+06029,County,Kern County,2004,Micrograms per Cubic Meter,18.9
+06029,County,Kern County,2007,Micrograms per Cubic Meter,22.0
+06029,County,Kern County,2006,Micrograms per Cubic Meter,19.3
+06029,County,Kern County,2008,Micrograms per Cubic Meter,23.5
+06029,County,Kern County,2009,Micrograms per Cubic Meter,22.5
+06029,County,Kern County,2010,Micrograms per Cubic Meter,17.6
+06029,County,Kern County,2011,Micrograms per Cubic Meter,16.2
+06029,County,Kern County,2014,Micrograms per Cubic Meter,21.6
+06029,County,Kern County,2013,Micrograms per Cubic Meter,22.8
+06029,County,Kern County,2012,Micrograms per Cubic Meter,14.7
+06029,County,Kern County,2016,Micrograms per Cubic Meter,15.9
+06029,County,Kern County,2015,Micrograms per Cubic Meter,17.9
+06029,County,Kern County,2017,Micrograms per Cubic Meter,18.2
+06029,County,Kern County,2018,Micrograms per Cubic Meter,19.4
+06029,County,Kern County,2019,Micrograms per Cubic Meter,13.0
+06111,County,Ventura County,2018,Micrograms per Cubic Meter,10.2
+06111,County,Ventura County,2017,Micrograms per Cubic Meter,13.7
+06111,County,Ventura County,2019,Micrograms per Cubic Meter,7.3
+06111,County,Ventura County,2015,Micrograms per Cubic Meter,9.6
+06111,County,Ventura County,2016,Micrograms per Cubic Meter,9.6
+06111,County,Ventura County,2014,Micrograms per Cubic Meter,9.5
+06111,County,Ventura County,2013,Micrograms per Cubic Meter,9.3
+06111,County,Ventura County,2012,Micrograms per Cubic Meter,9.5
+06111,County,Ventura County,2011,Micrograms per Cubic Meter,8.9
+06111,County,Ventura County,2009,Micrograms per Cubic Meter,10.7
+06111,County,Ventura County,2010,Micrograms per Cubic Meter,8.7
+06111,County,Ventura County,2005,Micrograms per Cubic Meter,11.2
+06111,County,Ventura County,2006,Micrograms per Cubic Meter,10.3
+06111,County,Ventura County,2007,Micrograms per Cubic Meter,11.7
+06111,County,Ventura County,2008,Micrograms per Cubic Meter,10.7
+06111,County,Ventura County,2003,Micrograms per Cubic Meter,14.2
+06111,County,Ventura County,2004,Micrograms per Cubic Meter,12.5
+06111,County,Ventura County,2001,Micrograms per Cubic Meter,14.9
+06111,County,Ventura County,2002,Micrograms per Cubic Meter,14.6
+06111,County,Ventura County,1999,Micrograms per Cubic Meter,13.7
+06111,County,Ventura County,2000,Micrograms per Cubic Meter,13.6
+06037,County,Los Angeles County,1999,Micrograms per Cubic Meter,25.7
+06037,County,Los Angeles County,2000,Micrograms per Cubic Meter,24.0
+06037,County,Los Angeles County,2001,Micrograms per Cubic Meter,25.2
+06037,County,Los Angeles County,2002,Micrograms per Cubic Meter,24.0
+06037,County,Los Angeles County,2003,Micrograms per Cubic Meter,22.1
+06037,County,Los Angeles County,2004,Micrograms per Cubic Meter,20.0
+06037,County,Los Angeles County,2005,Micrograms per Cubic Meter,17.8
+06037,County,Los Angeles County,2007,Micrograms per Cubic Meter,16.9
+06037,County,Los Angeles County,2006,Micrograms per Cubic Meter,16.6
+06037,County,Los Angeles County,2009,Micrograms per Cubic Meter,14.8
+06037,County,Los Angeles County,2008,Micrograms per Cubic Meter,16.1
+06037,County,Los Angeles County,2011,Micrograms per Cubic Meter,13.2
+06037,County,Los Angeles County,2010,Micrograms per Cubic Meter,12.5
+06037,County,Los Angeles County,2014,Micrograms per Cubic Meter,N_A
+06037,County,Los Angeles County,2012,Micrograms per Cubic Meter,12.6
+06037,County,Los Angeles County,2013,Micrograms per Cubic Meter,12.1
+06037,County,Los Angeles County,2016,Micrograms per Cubic Meter,12.1
+06037,County,Los Angeles County,2015,Micrograms per Cubic Meter,12.4
+06037,County,Los Angeles County,2017,Micrograms per Cubic Meter,13.3
+06037,County,Los Angeles County,2019,Micrograms per Cubic Meter,11.0
+06037,County,Los Angeles County,2018,Micrograms per Cubic Meter,13.3
+06059,County,Orange County,2018,Micrograms per Cubic Meter,11.4
+06059,County,Orange County,2017,Micrograms per Cubic Meter,N_A
+06059,County,Orange County,2019,Micrograms per Cubic Meter,9.4
+06059,County,Orange County,2015,Micrograms per Cubic Meter,7.1
+06059,County,Orange County,2016,Micrograms per Cubic Meter,9.4
+06059,County,Orange County,2013,Micrograms per Cubic Meter,10.1
+06059,County,Orange County,2014,Micrograms per Cubic Meter,N_A
+06059,County,Orange County,2010,Micrograms per Cubic Meter,10.2
+06059,County,Orange County,2012,Micrograms per Cubic Meter,10.8
+06059,County,Orange County,2011,Micrograms per Cubic Meter,11.0
+06059,County,Orange County,2008,Micrograms per Cubic Meter,10.4
+06059,County,Orange County,2009,Micrograms per Cubic Meter,11.7
+06059,County,Orange County,2006,Micrograms per Cubic Meter,14.0
+06059,County,Orange County,2007,Micrograms per Cubic Meter,14.4
+06059,County,Orange County,2005,Micrograms per Cubic Meter,14.7
+06059,County,Orange County,2004,Micrograms per Cubic Meter,17.0
+06059,County,Orange County,2003,Micrograms per Cubic Meter,17.3
+06059,County,Orange County,2002,Micrograms per Cubic Meter,18.6
+06059,County,Orange County,2001,Micrograms per Cubic Meter,18.5
+06059,County,Orange County,2000,Micrograms per Cubic Meter,20.3
+06059,County,Orange County,1999,Micrograms per Cubic Meter,N_A
+06071,County,San Bernardino County,1999,Micrograms per Cubic Meter,25.7
+06071,County,San Bernardino County,2000,Micrograms per Cubic Meter,25.9
+06071,County,San Bernardino County,2001,Micrograms per Cubic Meter,26.5
+06071,County,San Bernardino County,2002,Micrograms per Cubic Meter,25.8
+06071,County,San Bernardino County,2004,Micrograms per Cubic Meter,21.9
+06071,County,San Bernardino County,2003,Micrograms per Cubic Meter,23.8
+06071,County,San Bernardino County,2005,Micrograms per Cubic Meter,18.8
+06071,County,San Bernardino County,2007,Micrograms per Cubic Meter,18.9
+06071,County,San Bernardino County,2006,Micrograms per Cubic Meter,18.4
+06071,County,San Bernardino County,2009,Micrograms per Cubic Meter,14.7
+06071,County,San Bernardino County,2008,Micrograms per Cubic Meter,15.8
+06071,County,San Bernardino County,2011,Micrograms per Cubic Meter,13.3
+06071,County,San Bernardino County,2012,Micrograms per Cubic Meter,12.8
+06071,County,San Bernardino County,2010,Micrograms per Cubic Meter,13.0
+06071,County,San Bernardino County,2014,Micrograms per Cubic Meter,N_A
+06071,County,San Bernardino County,2013,Micrograms per Cubic Meter,12.3
+06071,County,San Bernardino County,2016,Micrograms per Cubic Meter,14.9
+06071,County,San Bernardino County,2015,Micrograms per Cubic Meter,14.5
+06071,County,San Bernardino County,2019,Micrograms per Cubic Meter,12.8
+06071,County,San Bernardino County,2017,Micrograms per Cubic Meter,14.6
+06071,County,San Bernardino County,2018,Micrograms per Cubic Meter,14.5
+06065,County,Riverside County,2018,Micrograms per Cubic Meter,14.2
+06065,County,Riverside County,2017,Micrograms per Cubic Meter,13.5
+06065,County,Riverside County,2019,Micrograms per Cubic Meter,12.7
+06065,County,Riverside County,2015,Micrograms per Cubic Meter,13.3
+06065,County,Riverside County,2016,Micrograms per Cubic Meter,14.1
+06065,County,Riverside County,2013,Micrograms per Cubic Meter,14.1
+06065,County,Riverside County,2014,Micrograms per Cubic Meter,N_A
+06065,County,Riverside County,2010,Micrograms per Cubic Meter,15.2
+06065,County,Riverside County,2012,Micrograms per Cubic Meter,15.1
+06065,County,Riverside County,2011,Micrograms per Cubic Meter,15.3
+06065,County,Riverside County,2008,Micrograms per Cubic Meter,18.3
+06065,County,Riverside County,2009,Micrograms per Cubic Meter,16.8
+06065,County,Riverside County,2006,Micrograms per Cubic Meter,20.8
+06065,County,Riverside County,2007,Micrograms per Cubic Meter,20.9
+06065,County,Riverside County,2005,Micrograms per Cubic Meter,20.9
+06065,County,Riverside County,2003,Micrograms per Cubic Meter,24.8
+06065,County,Riverside County,2004,Micrograms per Cubic Meter,22.1
+06065,County,Riverside County,2002,Micrograms per Cubic Meter,27.5
+06065,County,Riverside County,2001,Micrograms per Cubic Meter,31.0
+06065,County,Riverside County,2000,Micrograms per Cubic Meter,28.3
+06065,County,Riverside County,1999,Micrograms per Cubic Meter,30.2
+06073,County,San Diego County,1999,Micrograms per Cubic Meter,18.0
+06073,County,San Diego County,2000,Micrograms per Cubic Meter,15.8
+06073,County,San Diego County,2001,Micrograms per Cubic Meter,17.7
+06073,County,San Diego County,2002,Micrograms per Cubic Meter,16.0
+06073,County,San Diego County,2004,Micrograms per Cubic Meter,14.1
+06073,County,San Diego County,2003,Micrograms per Cubic Meter,15.5
+06073,County,San Diego County,2005,Micrograms per Cubic Meter,12.3
+06073,County,San Diego County,2007,Micrograms per Cubic Meter,13.3
+06073,County,San Diego County,2006,Micrograms per Cubic Meter,13.1
+06073,County,San Diego County,2009,Micrograms per Cubic Meter,13.5
+06073,County,San Diego County,2008,Micrograms per Cubic Meter,13.7
+06073,County,San Diego County,2011,Micrograms per Cubic Meter,10.9
+06073,County,San Diego County,2012,Micrograms per Cubic Meter,11.1
+06073,County,San Diego County,2010,Micrograms per Cubic Meter,10.8
+06073,County,San Diego County,2014,Micrograms per Cubic Meter,10.2
+06073,County,San Diego County,2013,Micrograms per Cubic Meter,10.6
+06073,County,San Diego County,2016,Micrograms per Cubic Meter,8.7
+06073,County,San Diego County,2015,Micrograms per Cubic Meter,9.3
+06073,County,San Diego County,2019,Micrograms per Cubic Meter,8.6
+06073,County,San Diego County,2017,Micrograms per Cubic Meter,9.6
+06073,County,San Diego County,2018,Micrograms per Cubic Meter,10.0
+06025,County,Imperial County,2018,Micrograms per Cubic Meter,10.4
+06025,County,Imperial County,2019,Micrograms per Cubic Meter,10.7
+06025,County,Imperial County,2017,Micrograms per Cubic Meter,11.9
+06025,County,Imperial County,2015,Micrograms per Cubic Meter,11.6
+06025,County,Imperial County,2016,Micrograms per Cubic Meter,12.5
+06025,County,Imperial County,2013,Micrograms per Cubic Meter,13.3
+06025,County,Imperial County,2012,Micrograms per Cubic Meter,8.1
+06025,County,Imperial County,2014,Micrograms per Cubic Meter,13.8
+06025,County,Imperial County,2010,Micrograms per Cubic Meter,12.8
+06025,County,Imperial County,2011,Micrograms per Cubic Meter,7.5
+06025,County,Imperial County,2008,Micrograms per Cubic Meter,8.2
+06025,County,Imperial County,2009,Micrograms per Cubic Meter,8.0
+06025,County,Imperial County,2006,Micrograms per Cubic Meter,12.5
+06025,County,Imperial County,2007,Micrograms per Cubic Meter,13.0
+06025,County,Imperial County,2004,Micrograms per Cubic Meter,11.8
+06025,County,Imperial County,2005,Micrograms per Cubic Meter,9.4
+06025,County,Imperial County,2002,Micrograms per Cubic Meter,15.1
+06025,County,Imperial County,2003,Micrograms per Cubic Meter,9.2
+06025,County,Imperial County,2001,Micrograms per Cubic Meter,14.9
+06025,County,Imperial County,2000,Micrograms per Cubic Meter,16.9
+06025,County,Imperial County,1999,Micrograms per Cubic Meter,15.2
+06087,County,Santa Cruz County,1999,Micrograms per Cubic Meter,N_A
+06087,County,Santa Cruz County,2000,Micrograms per Cubic Meter,7.9
+06087,County,Santa Cruz County,2002,Micrograms per Cubic Meter,8.6
+06087,County,Santa Cruz County,2001,Micrograms per Cubic Meter,9.1
+06087,County,Santa Cruz County,2005,Micrograms per Cubic Meter,N_A
+06087,County,Santa Cruz County,2003,Micrograms per Cubic Meter,7.4
+06087,County,Santa Cruz County,2004,Micrograms per Cubic Meter,N_A
+06087,County,Santa Cruz County,2007,Micrograms per Cubic Meter,6.4
+06087,County,Santa Cruz County,2006,Micrograms per Cubic Meter,6.8
+06087,County,Santa Cruz County,2009,Micrograms per Cubic Meter,5.7
+06087,County,Santa Cruz County,2010,Micrograms per Cubic Meter,6.5
+06087,County,Santa Cruz County,2008,Micrograms per Cubic Meter,6.8
+06087,County,Santa Cruz County,2012,Micrograms per Cubic Meter,5.8
+06087,County,Santa Cruz County,2011,Micrograms per Cubic Meter,6.5
+06087,County,Santa Cruz County,2013,Micrograms per Cubic Meter,6.7
+06087,County,Santa Cruz County,2014,Micrograms per Cubic Meter,5.4
+06087,County,Santa Cruz County,2016,Micrograms per Cubic Meter,5.3
+06087,County,Santa Cruz County,2015,Micrograms per Cubic Meter,6.1
+06087,County,Santa Cruz County,2017,Micrograms per Cubic Meter,7.1
+06087,County,Santa Cruz County,2018,Micrograms per Cubic Meter,8.3
+06087,County,Santa Cruz County,2019,Micrograms per Cubic Meter,6.5
+06005,County,Amador County,2018,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,2019,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,2015,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,2014,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,2016,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,2017,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,2012,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,2013,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,2011,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,2010,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,2009,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,2008,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,2006,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,2007,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,2005,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,2004,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,2003,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,2002,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,2000,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,2001,Micrograms per Cubic Meter,N_A
+06005,County,Amador County,1999,Micrograms per Cubic Meter,N_A
+
