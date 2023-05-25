@@ -1,6 +1,8 @@
 # Agricultue-Production-and-Climate-Change
 An Exploratory Analysis of Agriculture, Water and Air Particulates in relation to Produce
 
+![image](https://github.com/vileincorp/Agricultue-Production-and-Climate-Change/assets/124652720/eccc451f-863a-4602-98c0-4f6c8f6133b4)
+
 
 General Overview
 The backbone of any civilization is it's ability to properly feed it's population through sustained agriculture. climate change is a novel threat to humanity and we can only model a myraid of potetnional effects, never the less, I wanted to explore and generate a way for us to understand what climate change might mean for agriculture production, "Climate Change, not Climate death." so through the data I sought to answer: 
