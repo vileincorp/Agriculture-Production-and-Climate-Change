@@ -4,36 +4,40 @@ An Exploratory Analysis of Agriculture, Water and Air Particulates in relation t
 ![image](https://github.com/vileincorp/Agricultue-Production-and-Climate-Change/assets/124652720/eccc451f-863a-4602-98c0-4f6c8f6133b4)
 
 
-General Overview
+General Overview: 
+
 The backbone of any civilization is it's ability to properly feed it's population through sustained agriculture. climate change is a novel threat to humanity and we can only model a myraid of potetnional effects, never the less, I wanted to explore and generate a way for us to understand what climate change might mean for agriculture production, "Climate Change, not Climate death." so through the data I sought to answer: 
 
 
-What were Highest and Lowest Values in Agriculture Production over the last 28 years?
-How does Air and Water Quality Influence Production over that time span?
-Could we Predict future Production based on variance in these patterns? 
+-- What were Highest and Lowest Values in Agriculture Production over the last 28 years?
+-- How does Air and Water Quality Influence Production over that time span?
+-- Could we Predict future Production based on variance in these patterns? 
 
 The goal of this project is to help farmers and climate scientists discover the best way to grow the right crops to grow in a changing climate, aswell as Entrepneaurs and Business' articualte their investment positioning for the future, when produce types we take for granted, might be harder to grow. 
 
-Business Understanding
+Business Understanding: 
+
 Farmers make up roughly 1% of the population and according to the USDA their median age is near 60, Despite the US in total representing 5% of the world's population it accounts for 15% of the world's agricultural suppiers for the world at large, with California accounting for 4% of that total. California, a land with increasingly extreme droughts and already with a burgeoning population, is home to some of the most profitable and fertile valleys in the world. 
 
 With the advent of Robotic AI to offset the farmer population aging out it is important to implement technology not only in the labour but also in the generative aspect, i.e: choosing what to plant. 
 
 Using this data and modeling we can graph and better predict changes in agriculture stemming from climate and prepare our farms to produce not only what has a higher yield but better survivability. 
 
-Data Understanding
+Data Understanding: 
+
 The data was indepedently sourced from the USDA's NASS and NRCS divisons aswell as the PRB over the last 28 years. Ranging from Yield, Air Particulates, Chemcial Composition(Macro and Micro Nutrients), Electrical Conductivity and more. 
 
 In total there were roughly 50+ original factors over 80,000+ entries, that were filtered down to the 16 most important factors and 30,000 entries yet representing the most important regions, agricultural outputs and chemical factors over 28 years.
 
 Data info:
 
-Production: https://www.nass.usda.gov/Statistics_by_State/California/Publications/AgComm/index.php
-Air Quality: https://shorturl.at/oxU02
-Chemical Composition: https://www.nrcs.usda.gov/resources/data-and-reports/ssurgo/stats2go-metadata
+-- Production: https://www.nass.usda.gov/Statistics_by_State/California/Publications/AgComm/index.php
+-- Air Quality: https://shorturl.at/oxU02
+-- Chemical Composition: https://www.nrcs.usda.gov/resources/data-and-reports/ssurgo/stats2go-metadata
 
-Models
-Using a combination of the ARIMA and SARMIAX model  The house prices in the DC area will be over $700,000 after 2016, with a house price variance of $3000. The house price model is also about 90% effective to the actual model prices, ranging above or below the $3000.
+Models: 
+
+Using an ARIMA model The house prices in the DC area will be over $700,000 after 2016, with a house price variance of $3000. The house price model is also about 90% effective to the actual model prices, ranging above or below the $3000.
 
 Expected Yields - The yearly percent change for the average return on investments (ROIs) varies from -1% to 2%. The Percent change is at its lowest during 2008 due to the global recession and it hit its peak around 2004, pre-recession. Our client base will also be leaving or entering the DC area every 3-6 years, so we have to take into account that change as well.
 
