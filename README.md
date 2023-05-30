@@ -4,6 +4,7 @@ An Exploratory Analysis of Agriculture, Water and Air Particulates in relation t
 ![image](https://github.com/vileincorp/Agricultue-Production-and-Climate-Change/assets/124652720/eccc451f-863a-4602-98c0-4f6c8f6133b4)
 
 
+
 General Overview: 
 
 The backbone of any civilization is it's ability to properly feed it's population through sustained agriculture. climate change is a novel threat to humanity and we can only model a myraid of potetnional effects, never the less, I wanted to explore and generate a way for us to understand what climate change might mean for agriculture production, "Climate Change, not Climate death." so through the data I sought to answer: 
@@ -37,6 +38,8 @@ Data info:
 -- Air Quality: https://shorturl.at/oxU02
 -- Chemical Composition: https://www.nrcs.usda.gov/resources/data-and-reports/ssurgo/stats2go-metadata
 
+Data Prep
+
 Models: 
 
 Using an ARIMA model The house prices in the DC area will be over $700,000 after 2016, with a house price variance of $3000. The house price model is also about 90% effective to the actual model prices, ranging above or below the $3000.
@@ -47,11 +50,13 @@ Chemical Effects -  The top 18 zipcodes for return on investments were based on 
 
 Air Particulate Effects - The predicted model generates house sale prices after 2018, where the house prices are trending upwards, with a great degree of variance due to upcoming worldwide events. Regardless, the normal degree of variance will still be $3000 from the actual house price.
 
-Conclusion
+Evaluation: 
 
 
 
-Ways to Improve: 
+Conclusions: 
+
+Areas to Improve: 
 : Helping other diplomats from various countries also find homes in the country where they will be working at specifically
 
 Larger Implementation: Looking at this model with a larger market, i.e: other states would allow to predict places that may have better yields by virtue of changing chemical composition. 
