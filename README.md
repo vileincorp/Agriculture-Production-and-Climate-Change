@@ -38,11 +38,16 @@ Data info:
 -- Air Quality: https://shorturl.at/oxU02
 -- Chemical Composition: https://www.nrcs.usda.gov/resources/data-and-reports/ssurgo/stats2go-metadata
 
-Data Prep
+Data Prep: 
+
+In total there were about 80,000 entries across 50+ some columns, so cleaning not only the formatting but also disposing of irrelevant information was my first priority. There we're numerous minute differences between each group but with the help of some functions I was able to standarize everything. After standardization I began to explore the data to find the best sampling of counties and crops in df_3 and found overlap with available infromation in df_1 and df_2 
+leading me to Stanislaus, Tulare and Fresno for Grapes, Walnuts and Hay Alfalfa. From there the data and saved off individusally and run through a few different modeling and cross validation techniques. 
+
+
 
 Models: 
 
-Using an ARIMA model The house prices in the DC area will be over $700,000 after 2016, with a house price variance of $3000. The house price model is also about 90% effective to the actual model prices, ranging above or below the $3000.
+First I examined how the data would appear over a forecast, then I ran an AdFuller to test if it was stationary, and then a Auto correlation and Partial Autocorrelation, finally after that I ran an ARIMA model, which I found more suitable than a SariMax given the time increments of my data (yearly), using a search and test function for PDQ, I found which inputs generated the best model and began validating agianst the MSRE as a metric for error. I ran a few split tests with a few differet kinds of P,D,Q just to see the differences in results and a y hat test, to try to perfect the model, including a naive bayes, and then lastly, forecasted into the future about 5 years on each model. 
 
 Expected Yields - The yearly percent change for the average return on investments (ROIs) varies from -1% to 2%. The Percent change is at its lowest during 2008 due to the global recession and it hit its peak around 2004, pre-recession. Our client base will also be leaving or entering the DC area every 3-6 years, so we have to take into account that change as well.
 
