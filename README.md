@@ -16,7 +16,7 @@ The backbone of any civilization is it's ability to properly feed it's populatio
 
 -- Could we Predict future Production based on variance in these patterns? 
 
-The goal of this project is to help farmers and climate scientists discover the best way to grow the right crops to grow in a changing climate, aswell as Entrepneaurs and Business' articualte their investment positioning for the future, when produce types we take for granted, might be harder to grow. 
+The goal of this project is to help farmers and climate scientists discover the best way to grow the right crops to grow in a changing climate, aswell as Entrepneaurs and Business articualte their investment positioning for the future, when produce types we take for granted, might be harder to grow. 
 
 Business Understanding: 
 
@@ -53,12 +53,35 @@ First I examined how the data would appear over a forecast, then I ran an AdFull
 
 Evaluation: 
 
-Expected Yields - Looking at the last 29 years, I was able to build a predicitve model with a few variations for testing and able to predict the production numbers of a crops in the next 5 years with a model effectiveness ranging 15% to 30% RMSE, meaning that I am able to predict the given yield of an upcoming year with about 85% to 70% accurcacy. 
+Expected Yields - Looking at the last 29 years, I was able to build a predictive model with a few variations for testing and able to predict the production numbers of a crops in the next 5 years with model effectiveness ranging 15% to 30% RMSE, meaning that I am able to predict the given yield of an upcoming year with about 85% to 70% accurcacy. 
 
 
-Chemical Effects -  There is an overall trend of acidicifation in the dataset and when using the Predicitve Regressive model, we can see how certain crops like grain, greatly decrease in yield. So focusing on plants whom like acidifcation or remediative practices to help offset this is paramount. 
+Chemical Effects -  There is an overall trend of acidification in the dataset and when using the PrPredictiveegressive model, we can see how certain crops like grain, greatly decrease in yield. So focusing on plants whom like acidification or meditative practices to help offset this is paramount. 
 
-Concluison: 
+Conclusion: 
+Models: 
+ Fresno Walnuts 19,000 - test - 1,973 / training - 1,739 / Naive 1,262 = 87%
+ Tulare Walnuts 80,000- Test - 13,011 / Training 14,665 / Naive 19,581 = 81%
+ Merced Walnuts 11,000- Test - 2,876 / Training 3,664 / Naive 1,913 = 75% 
+ 
+ Fresno Grapes 750,000 - Test - 211,951 / Training 196,479 / Naive 71,343 = 79%
+ Merced Grapes 145,000 - Test - 8,657 / Training 37,924 / Naive 25,668  = 84% 
+ San Joaquin Grapes 700,000 - Test - 121,919 / Training 184,156 / Naive 151,745 = 79% 
+ 
+ Fresno Alfalfa - 180,000 - Test - 36,232 / Training - 37,924 / Naive 98,638 = 69%
+Tulare Alfalfa - 360,000  - Test - 44,361 / Training 37,924 / Naive 81,816 = 85%
+Stanislauski Alfalfa - 125,000 - Test - 69,950 / Training - 9,342 / Naive 49,835 = 66% 
+
+ 
+
+
+
+
+
+
+ 
+
+
 There are a variety of different factors that can influence production but one of the most significant in the fight of climate change is what is actually planted and what kind of enviroment it exists in. From these models we can better understand what we might harvest from the earth and how we can maximize those yields
 
 Areas for Improvement: 
