@@ -57,14 +57,14 @@ Air Particulate Effects - The predicted model generates house sale prices after 
 
 Evaluation: 
 
+There are a variety of different factors that can influence production but one of the most significant in the fight of climate change is what is actually planted and what kind of enviroment it exists in. From these models we can better understand what we might harvest from the earth and how we can maximize those yields
 
-
-Conclusions: 
+Areas for Improvement: 
 
 Areas to Improve: 
-: Helping other diplomats from various countries also find homes in the country where they will be working at specifically
+Human Seasonality: Gas, AC and Microplastics are released in Seasonlity, perhaps influencing outputs
 
-Larger Implementation: Looking at this model with a larger market, i.e: other states would allow to predict places that may have better yields by virtue of changing chemical composition. 
+Bills vs Yields: Agriculture and Climate Change are subsidized and influence production so looking into leglizlation and how it might influence production. i.e: Corn. 
 
 Further Data: Some of the underlying datasets we're incomplete so perhaps comparing to readings from regions adjacent, say a county over, could be a reasonable ground to get further insights. 
 
