@@ -26,6 +26,12 @@ With the advent of Robotic AI to offset the farmer population aging out it is im
 
 Using this data and modeling we can graph and better predict changes in agriculture stemming from climate and prepare our farms to produce not only what has a higher yield but better survivability. 
 
+
+![Walnuts - Tulare - 1](https://github.com/vileincorp/Agriculture-Production-and-Climate-Change/assets/124652720/d82ec0ab-1021-4750-93df-f0a539db64b9)
+![Walnuts - Tulare - 2](https://github.com/vileincorp/Agriculture-Production-and-Climate-Change/assets/124652720/721fbf9e-4636-4059-9ccb-66ecbb14125d)
+![Walnuts - Tulare - 3](https://github.com/vileincorp/Agriculture-Production-and-Climate-Change/assets/124652720/5b2dcd88-e1d8-4e76-9748-90ec993abc4a)
+
+
 Data Understanding: 
 
 The data was indepedently sourced from the USDA's NASS and NRCS divisons aswell as the PRB over the last 28 years. Ranging from Yield, Air Particulates, Chemcial Composition(Macro and Micro Nutrients), Electrical Conductivity and more. 
