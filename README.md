@@ -35,7 +35,9 @@ In total there were roughly 50+ original factors over 80,000+ entries, that were
 Data info:
 
 -- Production: https://www.nass.usda.gov/Statistics_by_State/California/Publications/AgComm/index.php
+
 -- Air Quality: https://shorturl.at/oxU02
+
 -- Chemical Composition: https://www.nrcs.usda.gov/resources/data-and-reports/ssurgo/stats2go-metadata
 
 Data Prep: 
@@ -49,14 +51,14 @@ Models:
 
 First I examined how the data would appear over a forecast, then I ran an AdFuller to test if it was stationary, and then a Auto correlation and Partial Autocorrelation, finally after that I ran an ARIMA model, which I found more suitable than a SariMax given the time increments of my data (yearly), using a search and test function for PDQ, I found which inputs generated the best model and began validating agianst the MSRE as a metric for error. I ran a few split tests with a few differet kinds of P,D,Q just to see the differences in results and a y hat test, to try to perfect the model, including a naive bayes, and then lastly, forecasted into the future about 5 years on each model. 
 
-Expected Yields - The yearly percent change for the average return on investments (ROIs) varies from -1% to 2%. The Percent change is at its lowest during 2008 due to the global recession and it hit its peak around 2004, pre-recession. Our client base will also be leaving or entering the DC area every 3-6 years, so we have to take into account that change as well.
-
-Chemical Effects -  The top 18 zipcodes for return on investments were based on the mean house prices in their area. The return on investment is dated from the past 22 years beginning in 1996 all the way to 2018. The return on investment ranged from 100 to 800%, where the top five zip codes are 20001, 20002, 20010, 20003, and 20009, respectively.
-
-Air Particulate Effects - The predicted model generates house sale prices after 2018, where the house prices are trending upwards, with a great degree of variance due to upcoming worldwide events. Regardless, the normal degree of variance will still be $3000 from the actual house price.
-
 Evaluation: 
 
+Expected Yields - Looking at the last 29 years, I was able to build a predicitve model with a few variations for testing and able to predict the production numbers of a crops in the next 5 years with a model effectiveness ranging 15% to 30% RMSE, meaning that I am able to predict the given yield of an upcoming year with about 85% to 70% accurcacy. 
+
+
+Chemical Effects -  There is an overall trend of acidicifation in the dataset and when using the Predicitve Regressive model, we can see how certain crops like grain, greatly decrease in yield. So focusing on plants whom like acidifcation or remediative practices to help offset this is paramount. 
+
+Concluison: 
 There are a variety of different factors that can influence production but one of the most significant in the fight of climate change is what is actually planted and what kind of enviroment it exists in. From these models we can better understand what we might harvest from the earth and how we can maximize those yields
 
 Areas for Improvement: 
